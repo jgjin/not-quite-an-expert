@@ -1,7 +1,7 @@
 baseURL = "https://notquitean.expert/"
 languageCode = "en-us"
 title = "not quite an expert"
-theme = "m10c"
+theme = "hugo-theme-m10c"
 
 [params]
     author = "Jason Jin"
