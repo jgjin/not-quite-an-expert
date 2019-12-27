@@ -1,0 +1,23 @@
+baseURL = "https://notquitean.expert/"
+languageCode = "en-us"
+title = "not quite an expert"
+theme = "m10c"
+
+[params]
+    author = "Jason Jin"
+    description = "not quite an expert in anything, interested in many things"
+    avatar = "avatar.jpg"
+
+    [[params.social]]
+        name = "github"
+        url = "https://github.com/jgjin/"
+    [[params.social]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/jason-jin-/"
+
+[params.style]
+    darkestColor = "#4b1a4f"
+    darkColor = "#211d27"
+    lightColor = "#fcf8fd"
+    lightestColor = "#ffffff"
+    primaryColor = "#c34bcc"
