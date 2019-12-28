@@ -32,7 +32,7 @@ Basically, we want 4 functions:
 1. `init`: initializing our web application's model, or application state
 2. `view`: turning our model, or application state, into viewable HTML
 3. `update`: updating our model, or application state, based on new information
-4. `subscriptions`: subscribing to events (e.g. clock ticks every `s` seconds) to update our model, or application state
+4. `subscriptions`: subscribing to events (e.g. clock ticks every `m` milliseconds) to update our model, or application state
 ## Model
 All 4 of these functions relate to "model, or application state." The term "model" is more common in discussion about Elm. However, those coming from other languages, especially React, will be more familiar with the term "state." Conceptually, the model represents the information your application holds at some point in time.
 
@@ -125,7 +125,7 @@ update msg model =
 ```
 Notice we can give the wrapped data a name. e.g. `UpdatingName` wraps a `String`, which we call `newName`.
 ## `subscriptions`
-`subscriptions` is a bit less intuitive than the rest. It helps to have an example. In our case, because we are keeping track of time, we want to update model on (i.e. subscribe to) regular time intervals. To do so, we can use the `Time.every` function, which takes milliseconds as argument[^2]:
+`subscriptions` is a bit less intuitive than the rest. It helps to have an example. In our case, because we are keeping track of time, we want to the update model on (i.e. subscribe to) regular time intervals. To do so, we can use the `Time.every` function, which takes `m` milliseconds and a message to emit every `m` milliseconds as arguments[^2]:
 [^2]: By nature of being pure functional I guess, Elm is particular in defining "argument" and "parameter" separately. From [Beginning Elm](https://elmprogramming.com/function.html#function-application): "The terms parameter and argument are often used interchangeably although they are not the same. [A]n argument is used to supply a value when applying the function (e.g. `escapeEarth 11`) whereas a parameter is used to hold onto that value in function definition (e.g. `escapeEarth myVelocity`)."
 ```Elm
 subscriptions : Model -> Sub Msg
