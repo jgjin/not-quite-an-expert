@@ -1,5 +1,5 @@
 ---
-title: "Elm, or my first time with functional"
+title: "Elm, or my first time with pure functional"
 date: 2019-12-27
 draft: false
 tags: ["programming", "technology"]
