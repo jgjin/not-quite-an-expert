@@ -1,5 +1,5 @@
 ---
-title: "food is/isn't: a loose collection of thoughts on food"
+title: "A loose collection of thoughts on food"
 date: 2020-01-04
 draft: false
 tags: ["art", "food"]
