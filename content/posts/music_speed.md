@@ -1,6 +1,6 @@
 ---
 title: "Music at 1.4x speed"
-date: 2020-01-17
+date: 2020-01-18
 draft: false
 tags: ["art", "music"]
 ---
