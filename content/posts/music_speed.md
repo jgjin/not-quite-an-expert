@@ -5,7 +5,7 @@ draft: false
 tags: ["art", "music"]
 ---
 # Introduction
-For a few years, I listened to music at 1.4x (**not** 1.3x, **not** 1.5x, **exactly** 1.4x) speed. When I told this to other people, their reactions ranged from "whatever" to "WHATTT???". I thought it would be interesting to go over some conversations, with varying degrees of convincingness, I encountered with the "WHATTT???" people.
+For a few years, I listened to music at 1.4x (**not** 1.3x, **not** 1.5x, **exactly** 1.4x) speed. When I told this to other people, their reactions ranged from "whatever" to "what?" to "WHATTT???". I thought it would be interesting to go over some conversations, with varying degrees of convincingness, I encountered with the "WHATTT???" people.
 # Not convincing (to me)
 ## "You're not respecting the artists' intentions!"
 This argument can be broken down into 2 components that are not convincing to me:
