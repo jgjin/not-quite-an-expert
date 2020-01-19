@@ -1,6 +1,6 @@
 ---
 title: "Elm, or my first time with pure functional"
-date: 2019-12-27
+date: 2019-12-28
 draft: false
 tags: ["programming", "technology"]
 ---
