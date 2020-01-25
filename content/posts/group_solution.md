@@ -18,7 +18,7 @@ The council makes decisions by majority vote. It considers the following solutio
 ## A brief intermission on collective intelligence
 Formally, we could describe a problem (e.g. "generate some ideas for our next advertisement campaign" or "estimate the population of Lithuania"[^1]) and a solution mechanism (e.g. plurality vote, majority vote with runoffs, combination of individual solutions) in at least 2 ways.
 1. **Superadditive**: the group gives a solution better than the best or average member. 
-    Superadditive can be divided into 3 more precise versions:[^2]
+    Superadditive can be divided into 3 more precise versions.[^2] We say a problem, solution mechanism, and solution space together are (regular) superadditive if at least 1 of the 3 versions is fulfilled and full superadditive if all 3 versions are fulfilled.[^3]
 
     a. **Super-optimal:** the group gives a solution better than the best member.
 
@@ -28,7 +28,7 @@ Formally, we could describe a problem (e.g. "generate some ideas for our next ad
 
     For example, we are voting on choices A, B, or C for a multiple-choice question. We keep voting until we reach a consensus. For simplification, the voting rounds are statistically independent. You know B is wrong, so you will vote for choices A, B, and C with probability 0.70, 0.01, and 0.29, respectively. I know A is wrong, so I will vote for choices A, B, and C with probability 0.01, 0.70, and 0.29, respectively.
     
-    Let's say C is the correct answer. Our probability of reaching consensus on C is roughly 0.86,[^3] which is greater than our individual probability of answering C of 0.29.
+    Let's say C is the correct answer. Our probability of reaching consensus on C is roughly 0.86,[^4] which is greater than our individual probability of answering C of 0.29.
 
     c. **Super-pluralitive/super-majoritive:** the group's performance exceeds that which would result from blind, isolated plurality/majority vote.
 
@@ -38,12 +38,11 @@ Formally, we could describe a problem (e.g. "generate some ideas for our next ad
     
     If we had taken an immediate majority vote, we would not have super-majoritive collective intelligence. Our decision to not grow fire carrots after deliberation (assuming exploding is not preferable) did result in super-majoritive collective intelligence.
 
-    We say a problem, solution mechanism, and solution space together are (regular) superadditive if at least 1 of the 3 versions is fulfilled and full superadditive if all 3 versions are fulfilled.[^4]
 
 [^1]: Roughly 2.8 million
 [^2]: Where did I get these words? I made them up, because they sounded right. I can do that! You can do that too!
-[^3]: (0.29 * 0.29) / (0.29 * 0.29 + 0.70 * 0.01 + 0.01 * 0.70) = 0.857...
-[^4]: Pending review by the Super-duper Official Commitee of Commitee of Commitees
+[^3]: Pending review by the Super-duper Official Commitee of Commitee of Commitees
+[^4]: (0.29 * 0.29) / (0.29 * 0.29 + 0.70 * 0.01 + 0.01 * 0.70) = 0.857...
 
 2. Emergent: the group gives a solution not possible by any individual member.
 
