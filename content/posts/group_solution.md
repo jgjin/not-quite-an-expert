@@ -18,7 +18,7 @@ The council makes decisions by majority vote. It considers the following solutio
 ## A brief intermission on collective intelligence
 Formally, we could describe a problem (e.g. "generate some ideas for our next advertisement campaign" or "estimate the population of Lithuania"[^1]) and a solution mechanism (e.g. plurality vote, majority vote with runoffs, combination of individual solutions) in at least 2 ways.
 1. **Superadditive**: the group gives a solution better than the best or average member. 
-    Superadditive can be subdivided into 3 more precise versions:[^2]
+    Superadditive can be divided into 3 more precise versions:[^2]
 
     a. **Super-optimal:** the group gives a solution better than the best member.
 
