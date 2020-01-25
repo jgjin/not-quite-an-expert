@@ -32,9 +32,11 @@ Formally, we could describe a problem (e.g. "generate some ideas for our next ad
 
     c. **Super-pluralitive/super-majoritive:** the group's performance exceeds that which would result from blind, isolated plurality/majority vote.
 
-    Note super-pluralitive applies mostly to discrete solution spaces. 
+    Note super-pluralitive applies mostly to discrete solution spaces.
     
-    Your friend, you, and I are deciding whether or not to grow fire carrots this year. You and I **love** fire carrots. If we had voted immediately, you and I would have the majority and head to the fire carrot seed store. However, your friend, an ecologist, convinces us to discuss the issue and points out that fire carrots explode above 100 degrees Fahrenheit. You, a weather enthusiast, know that there is a high chance temperatures will rise above 100 degrees this year, and you would rather not explode. After deliberation, we decide not to grow fire carrots, and we don't explode.
+    Your friend, you, and I are deciding whether or not to grow fire carrots this year. You and I **love** fire carrots. If we had voted immediately, you and I would have the majority and head to the fire carrot seed store. However, your friend, an ecologist, convinces us to discuss the issue and points out that fire carrots explode above 100 degrees Fahrenheit. You, a weather enthusiast, know that there is a high chance temperatures will rise above 100 degrees this year, and you would rather not explode. After deliberation, we decide to not grow fire carrots, and we don't explode. 
+    
+    If we had taken an immediate majority vote, we would not have super-majoritive collective intelligence. Our decision to not grow fire carrots after deliberation (assuming exploding is not preferable) did result in super-majoritive collective intelligence.
 
     We say a problem, solution mechanism, and solution space together are (regular) superadditive if at least 1 of the 3 versions is fulfilled and full superadditive if all 3 versions are fulfilled.[^4]
 
