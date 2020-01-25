@@ -34,7 +34,7 @@ Let picking circle beris ("circle") be the better solution ("square" refers to p
 
     i. If the majority voted "circle," the council's "circle" answer is as good as the "circle" answer from the "average" member.[^1]
 
-    ii. If the majority voted "square," the council's "square" answer is as good as the "square" answer from the "average" member. (and worse than the "circle" answer from the wiser members).
+    ii. If the majority voted "square," the council's "square" answer is as good as the "square" answer from the "average" member (and worse than the "circle" answer from the wiser members).
 
 3. Everyone votes "square." The group's "square" answer is as good as (i.e. as bad as) any member's "square" answer.
 
@@ -42,7 +42,7 @@ By the nature of the solution space and decision rule,[^2] in no situation can t
 [^1]: By convention, we say that the "average" voter voted the majority option if there was a majority (rather than a tie or plurality).
 [^2]: If you really think about it, any sensible decision rule would still result in the same property.
 ### Not emergent
-Any member can answer exactly one of "circle" or "square". The group can answer exactly one of "circle" or "square". Therefore, the council's solution space is the same as any member's individual solution space.
+Any member can answer exactly one of "circle" or "square." The group can answer exactly one of "circle" or "square." Therefore, the council's solution space is the same as any member's individual solution space.
 ## A relaxed solution space
 Suppose we relax the solution space so that we instead decide how much of the circle and square beris we should pick. The council knows from previous years that the residents of the island only have enough labor to pick proportion of circle beris + proportion of square beris <= 1. For instance, they could pick all of the circle beris, or 25% of the circle beris and 75% of the square beris, etc. After a round of extended discussion, the council will average their allocations to determine this year's picking proportions.
 
