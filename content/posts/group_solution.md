@@ -36,7 +36,7 @@ Formally, we could describe a problem (e.g. "generate some ideas for our next ad
     
     Your friend, you, and I are deciding whether or not to grow fire carrots this year. You and I **love** fire carrots. If we had voted immediately, you and I would have the majority and head to the fire carrot seed store. However, your friend, an ecologist, convinces us to discuss the issue and points out that fire carrots explode above 100 degrees Fahrenheit. You, a weather enthusiast, know that there is a high chance temperatures will rise above 100 degrees this year, and you would rather not explode. After deliberation, we decide to not grow fire carrots, and we don't explode. 
     
-    If we had taken an immediate majority vote, we would not have super-majoritive collective intelligence. Our decision to not grow fire carrots after deliberation (assuming exploding is not preferable) did result in super-majoritive collective intelligence.
+    If we had taken an immediate majority vote, we would not have super-majoritive collective intelligence (the majority [you and I] would explode and the group would explode). Our decision to not grow fire carrots after deliberation (assuming exploding is not preferable) did result in super-majoritive collective intelligence.
 
 
 [^1]: Roughly 2.8 million
