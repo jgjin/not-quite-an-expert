@@ -20,10 +20,10 @@ Put 3/4 of a stick of butter in the pan. Pretend you didn't see what you just di
 When the shallots start to turn translucent, add salt and pepper.
 # Step 5
 ![Step 5](/step-05.jpg)
-Crap. Is part of it starting to burn? How frequently were you supposed to stir it. What do you mean by "stir frequently," [recipe](https://www.foodnetwork.com/recipes/french-onion-soup-recipe-1950864)?
+Crap. Is part of it starting to burn? How frequently were you supposed to stir it? What do you mean by "stir frequently," [recipe](https://www.foodnetwork.com/recipes/french-onion-soup-recipe-1950864)?
 # Step 6
 ![Step 6](/step-06.jpg)
-Try to cut the cheese. What is this packaging? Why is white cheddar white? How am I supposed to have opened this packaging?
+Try to cut the cheese. What is this packaging? Why is white cheddar white? What is this packaging? Which dairy farmer witch woke up and cursed me with this difficult packaging?
 # Step 7
 ![Step 7](/step-07.jpg)
 Oh, that's definitely starting to look burnt. Should you remove it from the heat? Didn't you just write about [needing to caramelize onions over a long time]({{< ref "onions.md" >}})? You can't give up now! There are no stakes!
