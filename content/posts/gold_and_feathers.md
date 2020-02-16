@@ -10,7 +10,7 @@ Which weighs more, a ton of feathers or a ton of gold? Your System 1 might immed
 Living in the United States, a ton means 2000 pounds to me. However, there are at least 3 common definitions of ton used today:
 1. A long ton: used in the UK, 2240 pounds
 2. A short ton: used in the US, 2000 pounds
-3. A metric ton (tonne): used in the International System of units, 1000 kilograms
+3. A metric ton (tonne): used in the International System of Units, 1000 kilograms
 
 Apparently, the ton longweight is another type of ton historically used in the iron industry. I don't care about the iron industry from a few centuries ago.
 # The answer is whatever you want, depending on where you are
