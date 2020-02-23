@@ -2,7 +2,7 @@
 title: "The onion saga continues"
 date: 2020-02-05
 draft: false
-tags: ["art", "food", "\"cooking\""]
+tags: ["art", "food", "cooking"]
 ---
 # Caramelized shallots
 Because you think you're better than onions.
