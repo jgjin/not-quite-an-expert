@@ -23,7 +23,7 @@ Your reliable, friendly coworker who's going to get promoted before you.
 # White peppercorns
 Black peppercorns without the outer layer, soaked until the wrinkly skin comes off. 
 
-Thinks they're special because they went to Paris in their semester abroad. Refuses to stop over-pronouncing _croissant_. Alternatively, a spooky skeleton.
+Thinks they's special because they went to Paris in their semester abroad. Refuses to stop over-pronouncing _croissant_. Alternatively, a spooky skeleton.
 
 ![Skeleton](/skeleton.gif#center)
 # Pause for tea
@@ -37,7 +37,7 @@ Excuse me?
 > *an herb consultant for the University of Michigan*
 
 # Sichuan (Szechuan, Szechwan?)[^1] peppercorns
-[^1]: There are 3 common spellings in American English. [The spelling ‘Sichuan’ started in the 1950s with the creation of Hanyu Pinyin, now the Chinese government's official method of romanization](https://www.goldthread2.com/culture/so-it-spelled-szechuan-or-sichuan/article/2160683).
+[^1]: There are 3 common spellings in American English. [The spelling ‘Sichuan’ started in the 1950s with the creation of Hanyu Pinyin, now the Chinese government's official method of romanization.](https://www.goldthread2.com/culture/so-it-spelled-szechuan-or-sichuan/article/2160683)
 
 Fruit of (some trees under the genus known as) prickly ash, which is what you should call your boss if you want to be fired.
 
