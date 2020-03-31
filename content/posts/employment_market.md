@@ -43,7 +43,7 @@ Often, though not always, the value being traded is goods, services, and money.
 
 4. **Self-organization:** individuals act on their own without a dominant enforced authority
 
-This is in contrast to a democracy, which upon voting on some decision usually relies on a dominant authority (“the government”) to enforce those decisions.
+This is in contrast to a democracy, which upon voting on some decision usually relies on a dominant authority (“the government”) to enforce those decisions. Rules and norms in self-organized groups are less formally determined, and often subject to more frequent change.
 
 5. **Algorithms:** models trained on previous data make decisions on new data
 
@@ -67,6 +67,8 @@ Why not use democracies then? One major downside of democracies is that they req
 Finally, we don’t use pure[^2] self-organization because people would over-allocate to desirable jobs and under-allocate to unattractive, often necessary jobs. At the end of the day, someone needs to clean, and we should really pay them more.
 
 [^2]: One might argue the market is a narrower form of self-organization involving explicit trade.
+# Hybrid institutions
+In practice, complicated organizations and processes employ multiple types of institutions. Within a company, for example, we might observe the use of democracy in deciding whether to employ someone in a position. Each type of institution has strengths and weaknesses, so becomes more or less appropriate based on context. Markets are good for allocation, and suffer in externalities. 
 # Conclusion
 Let's end with some limitations to the framing of employment as a market. The major downside is a downside often found in economics as a whole: the assumption of people as rational. Not everyone makes rational or profit-maximizing[^3] decisions all the time. Maybe you stay in your stable boring job because you care about other people you provide for. That’s understandable, and not utility-maximizing.[^4] And while the market can be good at explaining overarching trends, it won’t fully explain why you, personally, prefer one job or one company or one path for yourself.
 
