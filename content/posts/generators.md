@@ -1,6 +1,6 @@
 ---
 title: "Generators in Python: \"good lazy\""
-date: 2020-01-31
+date: 2020-02-01
 draft: false
 tags: ["programming", "technology"]
 ---
