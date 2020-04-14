@@ -18,7 +18,7 @@ Typically, the dataset is described as a matrix, where users are rows and items 
 
 To form a recommendation, we want to predict the items which would have the highest value to a user. That is, the one they would most likely consume, consume the most, or rate the highest, according to the three types of "values" above.
 
-A note on convention: we call the user for whom we are currently recommending the "focal user" or the "active" user. For simplicity, we assume users are rows and items are columns for the rest of the post. 
+A note on convention: we call the user for whom we are currently recommending the "focal user" or the "active user." For simplicity, we assume users are rows and items are columns for the rest of the post. 
 # User-based collaborative filtering
 User-based collaborative filtering compares users to form recommendations. Also known as user-user collaborative filtering, the process involves:
 1. Calculate the similarity of every other user to the focal user.
