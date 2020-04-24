@@ -43,13 +43,13 @@ Invented by Amazon in 1998, item-based filtering compares items to form recommen
 
 You can use pretty much the same measures of similarity as in user-based collaborative filtering. Instead of taking the rows, you would take the columns, which correspond to each item, to calculate similarity.
 # Advantages of item-based collaborative filtering
-Advantages item-based collaborative filtering has over user-based collaborative filtering include
+Advantages item-based collaborative filtering has over user-based collaborative filtering include:
 1. Items tend to be more stable than users. Items tend to have many values compared to users, so item similarities do not need to be recomputed as often.
 2. Because of that, item-item similarities can be computed offline. That is, they can be computed ahead of time without waiting for the focal user to consume an item.
 # Applications
 Because of these advantages, item-based collaborative filtering is used by Amazon and YouTube. I could not find any practical examples of user-based collaborative filtering besides tutorials on how to perform it on well-known or toy datasets. However, user-based collaborative filtering could be advantageous if users are fewer and more stable than items.
 
-Obviously, the recommendation systems used by Amazon and YouTube are much more sophisticated than what I described here. They may use techniques to collapse (look up matrix decomposition) or otherwise handle sparse matrices, and almost certainly use some form of machine learning to aid the recommendation.
+Obviously, the recommender systems used by Amazon and YouTube are much more sophisticated than what I described here. They may use techniques to collapse (look up matrix decomposition) or otherwise handle sparse matrices, and almost certainly use some form of machine learning to aid the recommendation.
 # Conclusion
 Let's end with some caveats on collaborative filtering:
 1. Collaborative filtering is nearly useless without rich (i.e. a lot of) user-item data. It may not be feasible with entirely new products without user-item data.
