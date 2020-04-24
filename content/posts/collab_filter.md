@@ -4,6 +4,7 @@ date: 2020-04-11
 draft: false
 tags: ["people", "groups", "technology"]
 ---
+[Continued in this post]({{< ref "jupyter_collab_filter.md" >}})
 # Introduction
 Collaborative filtering is an important problem in recommender systems. These recommender systems form the basis of some of the largest products today: search (Google), marketplace (Amazon), and content (Netflix, YouTube) products all rely on some form of recommender system.
 # Collaborative filtering types

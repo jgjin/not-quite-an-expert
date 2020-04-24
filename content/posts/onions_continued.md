@@ -4,6 +4,7 @@ date: 2020-02-08
 draft: false
 tags: ["art", "food", "cooking"]
 ---
+[A continuation of this post]({{< ref "onions.md" >}})
 # Caramelized shallots
 Because you think you're better than onions.
 # Step 1

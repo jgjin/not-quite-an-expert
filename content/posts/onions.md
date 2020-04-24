@@ -4,6 +4,7 @@ date: 2020-01-11
 draft: false
 tags: ["art", "food", "cooking"]
 ---
+[Continued in this post]({{< ref "onions_continued.md" >}})
 # Introduction
 I recently started cooking again. While my cooking schedule deserves its own post, this post was inspired by one particular recipe. From the recipe for Caprese burgers:
 > # Caramelize Onion and Toast Buns

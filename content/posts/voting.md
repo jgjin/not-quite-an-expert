@@ -4,6 +4,7 @@ date: 2020-03-28
 draft: false
 tags: ["people", "groups", "management"]
 ---
+[Continued in this post]({{< ref "voting_cont.md" >}})
 # Introduction
 In the United States, we use plurality (winner-takes-all) voting. However, this is just one of multiple single-winner voting systems that exist. Other voting systems include:
 1. Instant-runoff voting
