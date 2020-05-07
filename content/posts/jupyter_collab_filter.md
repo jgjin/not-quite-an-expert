@@ -1,6 +1,6 @@
 ---
 title: "Jupyter, and collaborative filtering continued"
-date: 2020-04-23
+date: 2020-04-25
 draft: false
 tags: ["people", "groups", "programming", "technology"]
 ---
