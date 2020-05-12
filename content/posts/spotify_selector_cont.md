@@ -800,7 +800,7 @@ Now we can `cargo run` again and it works!
 # Deploying
 Now let's deploy it! I bought [jaeyoon.kim](http://jaeyoon.kim) because I have a friend with the name and I think it's funny. Domains aren't free, yet weirdly specific ones are just a few dollars.
 
-I'm using Heroku because I found an easy way to deploy Rust apps on Heroku. [Here's the simple example I followed](https://github.com/emk/rust-buildpack-example-rocket). As long as you have the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), it should be straightforward.
+I'm using Heroku because I found an easy way to deploy Rust apps on Heroku. [Here's the simple example I followed](https://github.com/emk/rust-buildpack-example-rocket). As long as you have the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), it should be straightforward. To add your custom domain (such as [jaeyoon.kim](http://jaeyoon.kim)), search your domain name registrar and Heroku.
 
 Note: make sure to update the environment variables accordingly. Consider using [Config Vars](https://devcenter.heroku.com/articles/config-vars).
 # Conclusion
@@ -822,7 +822,8 @@ Oof! That's a lot of words! I try not to be too verbose. We ended up covering th
 15. Deployment
 
 If you've read this far, give yourself a pat on the back! And maybe a nap. You deserve it!
-# Addendum: debugging
+# Addendums
+## Debugging
 During testing, I set the TTL of the cache to 6 seconds and OAuth tokens to 3 seconds to quickly simulate what happens when data expires. I noticed I was encountering an error related to the Spotify API. It turns out that the Spotify API does not always return the `refresh_token` field when exchanging refresh tokens for new access tokens. The fix looks like (in [src/oauth_token.rs](https://github.com/jgjin/random_album/blob/master/src/oauth_token.rs)):
 ```Rust
 ...
@@ -882,4 +883,25 @@ impl OAuthToken {
     }
 }
 ...
+```
+## Optimizing
+Our application is fairly optimized. However, looking at the timings [under the network tab of Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network), we see that we can make it even quicker by:
+1. Moving the CSS (minified) into a `style` tag in [templates/random_album.html.hbs](https://github.com/jgjin/random_album/blob/master/templates/random_album.html.hbs) rather than a separate(ly loaded) file:
+```HTML
+...
+    <head>
+        <title>
+            Random Spotify album selector
+        </title>
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+        <style>
+         body,html{height:100%}body{display:flex;align-items:center;justify-content:center;padding-top:40px;padding-bottom:40px;background-color:#f5f5f5}.album-card{width:90%;max-width:1000px;padding:15px;margin:0 auto}.album-image{transition:.2s ease-in-out}.album-image:hover{filter:opacity(80%);transform:scale(1.02)}.centered{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background-color:#1db954;height:60%;width:60%}
+        </style>
+    </head>
+...
+```
+2. Lazily loading the image with the `loading` attribute of the `img` tag:
+```HTML
+<img class="mb-2 album-image" src="{{ image_url }}" alt="{{ album_title }}" width="60%" height="60%" loading="lazy" />
 ```
