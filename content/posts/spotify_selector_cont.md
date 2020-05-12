@@ -822,3 +822,64 @@ Oof! That's a lot of words! I try not to be too verbose. We ended up covering th
 15. Deployment
 
 If you've read this far, give yourself a pat on the back! And maybe a nap. You deserve it!
+# Addendum: debugging
+During testing, I set the TTL of the cache to 6 seconds and OAuth tokens to 3 seconds to quickly simulate what happens when data expires. I noticed I was encountering an error related to the Spotify API. It turns out that the Spotify API does not always return the `refresh_token` field when exchanging refresh tokens for new access tokens. The fix looks like (in [src/oauth_token.rs](https://github.com/jgjin/random_album/blob/master/src/oauth_token.rs)):
+```Rust
+...
+pub struct OAuthToken {
+    token: String,
+    expiration: DateTime<Utc>,
+    refresh_token: Option<String>,
+}
+
+impl TryFrom<oauth::TokenResponse> for OAuthToken {
+    type Error = &'static str;
+
+    fn try_from(token_response: oauth::TokenResponse) -> Result<Self, Self::Error> {
+        Ok(Self {
+            token: token_response.access_token().secret().to_string(),
+            expiration: Utc::now()
+                .checked_add_signed(
+                    chrono::Duration::from_std(token_response.expires_in().ok_or(
+                        "Spotify authorization code flow should always return expiration period!",
+                    )?)
+                    .map_err(|_| "Could not interpret expiration period")?,
+                )
+                .ok_or("Could not interpret expiration time")?,
+            refresh_token: token_response
+                .refresh_token()
+                .map(|refresh| refresh.secret().to_string()),
+        })
+    }
+}
+
+impl OAuthToken {
+    pub fn token_checked(&mut self) -> Result<String, &'static str> {
+        if Utc::now() >= self.expiration {
+            return self.refresh().map(|_| self.token.clone());
+        }
+
+        return Ok(self.token.clone());
+    }
+
+    fn refresh(&mut self) -> Result<(), &'static str> {
+        self.refresh_token
+            .as_ref()
+            .ok_or("No refresh token found during refresh")
+            .and_then(|ref_token| {
+                oauth::create_client()
+                    .exchange_refresh_token(&RefreshToken::new(ref_token.clone()))
+                    .request(http_client)
+                    .map_err(|_| "Error in refresh token request")
+            })
+            .and_then(|token_response| {
+                Self::try_from(token_response).map(|oauth_token| {
+                    self.token = oauth_token.token;
+                    self.expiration = oauth_token.expiration;
+                    self.refresh_token = oauth_token.refresh_token.or(self.refresh_token.clone());
+                })
+            })
+    }
+}
+...
+```
