@@ -935,7 +935,8 @@ Our application is fairly optimized. However, looking at the timings [under the 
     </head>
 ...
 ```
-2. Lazily loading the image with the `loading` attribute of the `img` tag:
+2. Lazily loading the image with the `loading` attribute of the `img` tag:[^4]
+[^4]: It does load faster with the trade-off of the user seeing the image pop in. I actually reverted this optimization later.
 ```HTML
 <img class="mb-2 album-image" src="{{ image_url }}" alt="{{ album_title }}" width="60%" height="60%" loading="lazy" />
 ```
