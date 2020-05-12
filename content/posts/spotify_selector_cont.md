@@ -7,7 +7,24 @@ tags: ["programming", "technology", "art", "music"]
 # Introduction
 Okay, for real this time. I'm going to do it in Rust because I like Rust. [Code is available in a GitHub repo for reference](https://github.com/jgjin/random_album), and I'll be linking files where I can.
 
-We're going to cover a lot of technologies (including a pretty large tour of Rust), so get ready!
+We're going to cover a lot of technologies (including a pretty large tour of Rust), so get ready! Here's a preview of what we'll end up covering:
+1. Installing Rust
+2. Cargo
+3. Rocket
+4. OAuth
+5. Rust types (`enum`s, `struct`s, and `trait`s)
+6. Environment variables (`.env`)
+7. `serde`
+8. Pagination APIs
+9. Caches
+10. Concurrency (for HTTP asynchronousness)
+11. `Option`s and `Result`s
+12. HTML, CSS, and JavaScript
+13. Dynamic web content
+14. HTML templating
+15. Deployment
+16. Debugging
+17. Optimizing web content
 # Installing Rust
 Installing Rust is easy (on non-Windows systems). In terminal, run:
 ```zsh
@@ -803,28 +820,45 @@ Now let's deploy it! I bought [jaeyoon.kim](http://jaeyoon.kim) because I have a
 I'm using Heroku because I found an easy way to deploy Rust apps on Heroku. [Here's the simple example I followed](https://github.com/emk/rust-buildpack-example-rocket). As long as you have the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), it should be straightforward. To add your custom domain (such as [jaeyoon.kim](http://jaeyoon.kim)), search your domain name registrar and Heroku.
 
 Note: make sure to update the environment variables accordingly. Consider using [Config Vars](https://devcenter.heroku.com/articles/config-vars).
-# Conclusion
-Oof! That's a lot of words! I try not to be too verbose. We ended up covering the following:
-1. Installing Rust
-2. Cargo
-3. Rocket
-4. OAuth
-5. Rust types (`enum`s, `struct`s, and `trait`s)
-6. Environment variables (`.env`)
-7. `serde`
-8. Pagination APIs
-9. Caches
-10. Concurrency (for HTTP asynchronousness) and readers-writer locks
-11. `Option`s and `Result`s
-12. HTML, CSS, and JavaScript
-13. Dynamic web content
-14. HTML templating
-15. Deployment
+# Debugging
+During testing, I set the TTL of the cache to 6 seconds 
+```Rust
+...
+    pub fn insert(&self, key: String, mut value: Vec<SavedAlbum>) {
+        self.cache.write().ok().map(move |mut entries| {
+            entries.insert(
+                key,
+                value.drain(..).collect(),
+                Duration::from_secs(6),  // cache entries expire in 6 seconds
+            )
+        });
+    }
+...
+```
+and OAuth tokens to 3 seconds 
+```Rust
+...
+impl TryFrom<oauth::TokenResponse> for OAuthToken {
+    type Error = &'static str;
 
-If you've read this far, give yourself a pat on the back! And maybe a nap. You deserve it!
-# Addendums
-## Debugging
-During testing, I set the TTL of the cache to 6 seconds and OAuth tokens to 3 seconds to quickly simulate what happens when data expires. I noticed I was encountering an error related to the Spotify API. It turns out that the Spotify API does not always return the `refresh_token` field when exchanging refresh tokens for new access tokens. The fix looks like (in [src/oauth_token.rs](https://github.com/jgjin/random_album/blob/master/src/oauth_token.rs)):
+    fn try_from(token_response: oauth::TokenResponse) -> Result<Self, Self::Error> {
+        Ok(Self {
+            token: token_response.access_token().secret().to_string(),
+            expiration: Utc::now()
+                .checked_add_signed(
+                    // access tokens expire in 3 seconds
+                    chrono::Duration::seconds(3)
+                )
+                .ok_or("Could not interpret expiration time")?,
+            refresh_token: token_response
+                .refresh_token()
+                .map(|refresh| refresh.secret().to_string()),
+        })
+    }
+}
+...
+```
+to quickly simulate what happens when data expires. I noticed I was encountering an error related to the Spotify API. It turns out that the Spotify API does not always return the `refresh_token` field when exchanging refresh tokens for new access tokens. The fix looks like (in [src/oauth_token.rs](https://github.com/jgjin/random_album/blob/master/src/oauth_token.rs)):
 ```Rust
 ...
 pub struct OAuthToken {
@@ -884,7 +918,7 @@ impl OAuthToken {
 }
 ...
 ```
-## Optimizing
+# Optimizing
 Our application is fairly optimized. However, looking at the timings [under the network tab of Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network), we see that we can make it even quicker by:
 1. Moving the CSS (minified) into a `style` tag in [templates/random_album.html.hbs](https://github.com/jgjin/random_album/blob/master/templates/random_album.html.hbs) rather than a separate(ly loaded) file:
 ```HTML
@@ -905,3 +939,24 @@ Our application is fairly optimized. However, looking at the timings [under the 
 ```HTML
 <img class="mb-2 album-image" src="{{ image_url }}" alt="{{ album_title }}" width="60%" height="60%" loading="lazy" />
 ```
+# Conclusion
+Oof! That's a lot of words! I try not to be too verbose. We ended up covering the following:
+1. Installing Rust is simple
+2. Cargo manages Rust dependencies and configuration
+3. Rocket is a framework for web applications written in Rust
+4. OAuth allows third-party applications to access user data
+5. Rust types (`enum`s, `struct`s, and `trait`s) are rich and flexible
+6. Environment variables (`.env`) store security- and environment-sensitive values
+7. `serde` facilitates easy conversion of `struct`s from and to common data representations
+8. Pagination APIs support arbitrarily large collections
+9. Caches employ progressively slower layers of physical memory, disk, and network
+10. Concurrency (for HTTP asynchronousness) can be supported by adding readers-writer locks to shared resources
+11. `Option`s and `Result`s unambiguously signal data may not exist and operations may fail
+12. HTML, CSS, and JavaScript underlie most web content
+13. Dynamic web content can be accomplished server-side or client-side
+14. HTML templating is a common form of server-side dynamic web content
+15. Deployment of Rust applications can be done on many platforms, including Heroku
+16. Debugging follows testing, whether by the programmer or user
+17. Optimizing web content can often be accomplished via simple HTML/CSS alterations
+
+If you've read this far, give yourself a pat on the back! And maybe a nap. You deserve it!
