@@ -798,7 +798,7 @@ It's a lot of code, though most of it is formatting.
 
 Now we can `cargo run` again and it works!
 # Deploying
-Now let's deploy it! I bought [jaeyoon.kim](jaeyoon.kim) because I have a friend with the name and I think it's funny. Domains aren't free, yet weirdly specific ones are just a few dollars.
+Now let's deploy it! I bought [jaeyoon.kim](http://jaeyoon.kim) because I have a friend with the name and I think it's funny. Domains aren't free, yet weirdly specific ones are just a few dollars.
 
 I'm using Heroku because I found an easy way to deploy Rust apps on Heroku. [Here's the simple example I followed](https://github.com/emk/rust-buildpack-example-rocket). As long as you have the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), it should be straightforward.
 
