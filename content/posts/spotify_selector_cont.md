@@ -1,9 +1,10 @@
 ---
 title: "Let's actually build a random Spotify album selector!"
-date: 2020-05-10
+date: 2020-05-16
 draft: false
 tags: ["programming", "technology", "art", "music"]
 ---
+[A continuation of this post]({{< ref "spotify_selector.md" >}})
 # Introduction
 Okay, for real this time. I'm going to do it in Rust because I like Rust. [Code is available in a GitHub repo for reference](https://github.com/jgjin/random_album), and I'll be linking files where I can.
 
@@ -519,7 +520,7 @@ As you go down this list, you get magnitudes slower. Physical memory accesses oc
 
 In general, caching relies on the fastest layers when possible and falls back upon the slower layers as necessary. In our case, we use physical memory then fall back upon network. 
 
-To make sure previous inactive users do not crowd out new active users, cache entries have a time to live (TTL) of 12 hours. Thankfully, this is already implemented in the `ttl_cache` crate. In [src/cache.rs](https://github.com/jgjin/random_album/blob/master/src/cache.rs):
+To make sure our entries are not too stale (i.e. ensure our entries include recently saved albums), cache entries have a time to live (TTL) of 12 hours. Thankfully, this is already implemented in the `ttl_cache` crate. In [src/cache.rs](https://github.com/jgjin/random_album/blob/master/src/cache.rs):
 ```Rust
 use ttl_cache::TtlCache;
 
