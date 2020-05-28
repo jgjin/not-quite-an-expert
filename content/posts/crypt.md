@@ -4,6 +4,7 @@ date: 2020-05-02
 draft: false
 tags: ["programming", "technology"]
 ---
+[Continued in this post]({{< ref "crypt_cont.md" >}})
 # Introduction
 [They say the best way to learn something is to explain it to a 5-year-old (or some other beginner).](https://getpocket.com/explore/item/the-feynman-technique-the-best-way-to-learn-anything) So let's explain security!
 # Desired outcomes
@@ -29,7 +30,7 @@ Next, we have a **key**. A key is a value given to encryption or decryption that
 
 The sender **encrypts** the plaintext with a key. This creates the **ciphertext**, which is sent to the receiver. Ideally, no one but the receiver should be able to make sense of the ciphertext.
 
-The receiver **decrypts** the ciphertext with a key, this recreates the plaintext.
+The receiver **decrypts** the ciphertext with a key; this recreates the plaintext.
 # The dirty details (math)
 In this post, we'll only cover confidentiality. In later posts, we can cover authenticity and integrity.
 
