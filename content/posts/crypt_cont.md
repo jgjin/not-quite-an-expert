@@ -5,6 +5,8 @@ draft: false
 tags: ["programming", "technology"]
 ---
 [A continuation of this post]({{< ref "crypt.md" >}})
+
+[Continued in this post]({{< ref "crypt_cont_again.md" >}})
 # Introduction
 In [a previous post]({{< ref "crypt.md" >}}) we defined 3 desired outcomes of security:
 1. Confidentiality: only the sender(s) and the receiver(s) can understand the message.
