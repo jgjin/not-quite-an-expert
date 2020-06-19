@@ -56,7 +56,6 @@ Let's revise our process one final time\![^1] Note instead of "sender," we will 
 10. The server decrypts the ciphertext with their own private key, **getting the premaster secret.**
 11. **Using the client random, server random, and premaster secret, both the client and server generate the session keys. If neither side has had issues so far, the resulting session keys should be the same on both sides.**
 12. **The client and server send "finished" messages to each other to signal they are both ready for symmetric encryption.**
-13. From then on, the session keys are used to symmetrically encrypt and decrypt all subsequent messages.[^2]
-[^2]: We can use hashing similar to how we did before to create signatures for subsequent messages.
+13. From then on, the session keys are used to symmetrically encrypt and decrypt all subsequent messages. **Though not used so far, hashing and signatures are useful from this step onward. We can use hashing similar to how we did before to create signatures for subsequent messages.**
 # Conclusion
 After revising the process multiple times, we've devised a clever, efficient process for confidentiality, authenticity, and integrity with few necessary points of trust (certificate authorities). This process is known as TLS, and in you are interested in diving deeper, you should search it up.
