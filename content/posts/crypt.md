@@ -28,7 +28,7 @@ We start with the plaintext. The **plaintext** is the original content of a mess
 
 Next, we have a **key**. A key is a value given to encryption or decryption that is not the plaintext nor the ciphertext (defined next).
 
-The sender **encrypts** the plaintext with a key. This creates the **ciphertext**, which is sent to the receiver. Ideally, no one but the receiver should be able to make sense of the ciphertext.
+The sender **encrypts** the plaintext with a key. This creates the **ciphertext**, which is sent to the receiver. Ideally, no one except the receiver should be able to make sense of the ciphertext.
 
 The receiver **decrypts** the ciphertext with a key; this recreates the plaintext.
 # The dirty details (math)
