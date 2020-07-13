@@ -30,15 +30,17 @@ Let's say the author made this decision. The author could have chosen to give th
 
 That the main character has this **SEVERE PHOBIA** at all, and that it was used in _this way_ and described in _this way_, all were chosen during the writing process. Perhaps the author thought it would be funny. Alternatively, perhaps the author wanted to protest [banana republics](https://en.wikipedia.org/wiki/Banana_republic) in an absurd way. Whatever the reason, the point is that diegesis is a deliberate _choice_, and that choice has meaning.
 # Extreme art
-In a much more serious case, consider viscerally or politically extreme art. Let's say you are watching a movie on [the Rwandan genocide](https://en.wikipedia.org/wiki/Rwandan_genocide).[^1] You watch as a radical Hutu slaughters Tutsi and moderate Hutu people. You _can't_, or at least _shouldn't_ just think:
-[^1]: Diegetic/non-diegetic analysis applies even if the movie is non-fiction. For instance, the creator of a documentary must make content and presentation choices.
+In a much more serious case, consider viscerally or politically extreme art. Let's say you are watching a documentary on a genocide. You watch, in shocking detail, as a terrible number of people are killed for a violent cause.[^1] You _can't_, or at least _shouldn't_ just think:
+[^1]: To avoid disturbing or distracting the reader, I have chosen to abstract the topic of the hypothetical documentary. On another note, diegetic/non-diegetic analysis applies even if the movie is non-fiction. For instance, the creator of a documentary must make choices about focusing content and presentation. 
+
 > _Oh, this makes sense. This is historically accurate._
 
-Once again, someone made an integrated set of choices to portray _this_ in _this way_. That means _something_, and you should think about that.
+Once again, someone made an integrated set of choices to portray _this_ in _this way_. The creator could choose to shoot unmitigated gore to channel the raw human terror of the event. On the other hand, the creator could instead juxtapose censored gore with the inaction of the international response to express frustration toward international politics. Whatever choices the creator made, they mean _something_, and you should think about that. 
 
-As a related point, suppose some art contains scenes that may trigger traumatic memories in a large portion of the potential audience. It is **NOT** enough to simple say:
+
+As a related point, suppose some art contains scenes that may trigger traumatic memories in a large portion of the potential audience. It is **NOT** enough to simply say:
 > _That's what happens in the story, so it should be included._
 
-That is what I mean when I say "diegesis in not an excuse." You have to be aware that the creators had to make choices of significant consequence. Not every choice creators make will be a good one.
+That is what I mean when I say "diegesis in not an excuse." You have to be aware that the creators had to make choices of significant consequence, and not every choice creators make will be a good one.
 # Conclusion
 Art has meaning outside what happens in the story.
