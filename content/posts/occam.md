@@ -1,5 +1,5 @@
 ---
-title: "Don't cut too deep with Occum's razor"
+title: "Don't cut too deep with Occam's razor"
 date: 2020-07-18
 draft: false
 tags: ["philosophy"]
