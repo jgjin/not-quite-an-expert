@@ -2,7 +2,7 @@
 title: "Beauty and style"
 date: 2020-07-04
 draft: false
-tags: ["art", "people", "groups", "philosophy"]
+tags: ["art", "people", "groups", "philosophy", "language"]
 ---
 # Introduction
 A quick post on a useful distinction.

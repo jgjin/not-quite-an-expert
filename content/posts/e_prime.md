@@ -2,7 +2,7 @@
 title: "E-prime and precise language"
 date: 2020-08-01
 draft: false
-tags: ["art", "people", "groups", "misc"]
+tags: ["art", "language"]
 ---
 # Introduction
 When we use the verb _to be_ we can mean a lot of things, including, but not limited to:

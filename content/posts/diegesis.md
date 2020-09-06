@@ -2,7 +2,7 @@
 title: "Diegesis is not an excuse"
 date: 2020-06-13
 draft: false
-tags: ["art", "people"]
+tags: ["art", "people", "philosophy", "language"]
 ---
 # Introduction
 Look at the big word in the title!
