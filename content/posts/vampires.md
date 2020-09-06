@@ -21,6 +21,7 @@ Hold on, what about the Twilight series by Stephenie Meyer? Certainly her books 
 
 Here, I want to make 2 observations I find interesting:
 1. As the world's political organization moved heavily away from nobility toward elected governments, people don't seem to resonate with the idea of leeching nobility as much.
-2. The Fifty Shades series by E. L. James, which started as a fanfiction of Twilight, amazingly re-introduces this upper class to lower class dynamic! Christian Grey, the analog to the vampire character from Twilight, (ab)uses his vast wealth to "pursue" Anastasia Steele. They eventually form a relationship where he plays the role of the "dominant" and she the role of "submissive."
+2. The Fifty Shades series by E. L. James, which started as a fanfiction of Twilight, amazingly re-introduces this upper class to lower class dynamic! Christian Grey, the analog to the vampire character from Twilight, (ab)uses his vast wealth to "pursue" Anastasia Steele, sometimes undermining her well-being.[^1]
+[^1]: Even though Christian and Anastasia eventually form a consenting relationship, some actions taken by Christian, enabled by his wealth, do cause Anastasia significant emotional harm. See [this video essay series by Folding Ideas](https://www.youtube.com/watch?v=qzk9N7dJBec) if you want to go into more detail.
 # Conclusion
 In [previous post]({{< ref "diegesis" >}}), I encouraged thinking deeply about choices writers make. Hopefully now you can see by example how those choices can create meaning beyond the text.
