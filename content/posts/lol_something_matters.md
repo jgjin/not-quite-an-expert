@@ -16,7 +16,7 @@ This example exists as part of a larger movement within the social sciences focu
 
 Studies within this movement evoke our fear of the world as we want it declining. They feed us upsetting reasons as to why this person would get elected, or why these people would say these things and get positive attention from others.
 # III: LOL Something Matters
-While browsing I came across an article that really piqued my interest: "LOL Something Matters" on _Slate_. As Daniel Engber asserts: "We’ve been told that facts have lost their power, that debunking lies only makes them stronger, and that the internet divides us. Don’t believe any of it."
+This week, while mindlessly browsing, I came across an article that really piqued my interest: "LOL Something Matters" on _Slate_. As Daniel Engber asserts: "We’ve been told that facts have lost their power, that debunking lies only makes them stronger, and that the internet divides us. Don’t believe any of it."
 
 In "LOL Something Matters," Engber argues that the studies fueling the post-truth view above exhibit questionable scientific rigor. They suffer insufficiently large or representative samples, and the results don't reproduce. One such study, co-authored by Dr. Carolyn Yoon (who you should recognize), investigated how students responded to a CDC poster of facts and myths regarding the flu vaccine. Engber details multiple attempts to reproduce the findings failed, and that a larger study by Wood and Porter of over 10,000 subjects did not find the backfiring effect.
 # IV: Me
