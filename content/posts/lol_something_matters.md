@@ -12,7 +12,7 @@ Within her interests, how does presentation affect people's ability to internali
 
 I loaded this story in the back of my mind, ready to deploy it in conversations about misinformation.
 # II: Misinformation
-This example exists as part of a larger movement within the social sciences focused on misinformation. "We live in a post-truth world!" some decry. In this view, seeds of this post-truth lie in faults of our psychology: bias toward what already fits in our worldview, and penchant to remember the content more than the origin of information. And these foul seeds get fertilized by relatively new technologies: the Internet democratizes wide platforms regardless of credibility, and social networking sites enables ideas to spread faster than ever.
+This example exists as part of a larger movement within the social sciences focused on misinformation. "We live in a post-truth world!" some decry. In this view, seeds of this post-truth lie in the faults of our psychology: bias toward what already fits in our worldview, and penchant to remember the content more than the origin of information. And these foul seeds get fertilized by relatively new technologies: the Internet democratizes wide platforms regardless of credibility, and social networking sites enables ideas to spread faster than ever.
 
 Studies within this movement evoke our fear of the world as we want it declining. They feed us upsetting reasons as to why this person would get elected, or why these people would say these things and get positive attention from others.
 # III: LOL Something Matters
@@ -20,4 +20,4 @@ While browsing I came across an article that really piqued my interest: "LOL Som
 
 In "LOL Something Matters," Engber argues that the studies fueling the post-truth view above exhibit questionable scientific rigor. They suffer insufficiently large or representative samples, and the results don't reproduce. One such study, co-authored by Dr. Carolyn Yoon (who you should recognize), investigated how students responded to a CDC poster of facts and myths regarding the flu vaccine. Engber details multiple attempts to reproduce the findings failed, and that a larger study by Wood and Porter of over 10,000 subjects did not find the backfiring effect.
 # IV: Me
-So here we have the message that debunking can backfire, which I internalized for many months. And now we've added a debunking to that message about debunking. Will that debunking debunking debunking backfire?
+So here we lie, by coincidence or providence. For many months, I internalized the message that debunking can backfire. And now we've added a debunking to that message. Will that debunking debunking debunking backfire?
