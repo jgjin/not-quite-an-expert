@@ -1,5 +1,5 @@
 ---
-title: "Irony-poisoned"
+title: "Post-modernism and irony"
 date: 2020-10-10
 draft: false
 tags: ["art", "language", "philosophy", "groups"]
@@ -18,7 +18,8 @@ I frame post-modernism as negative ("there doesn't") here deliberately. Hallmark
 Less amusingly, we can see it in the marketing of **ORANGE DRINK**:
 {{< tweet 1092247574336163840 >}}
 
-I hope Ironic Brand Twitter™ marks the height and downfall of the dominance of post-modernism.
+I hope Ironic Brand Twitter™ marks the height and downfall of the dominance of post-modernism.[^1]
+[^1]: I find Ironic Brand Twitter™ especially cynical because the marketers ultimately care about your buying their product.
 # What does(n't) irony do?
 The last example demonstrates another hallmark of post-modernist media: irony. Informally, if nothing means anything, why not do everything _ironically_?
 
@@ -26,4 +27,4 @@ Let's start with what irony does well. For me, satire constitutes the most impac
 
 In our Ironic Brand Twitter™ example, the irony points out that corporations often use positivity to manipulate people to buy their products. Yet, we don't get any recourse, only maybe a laugh.
 # Conclusion
-From where I stand, I see post-modernism permeate a lot of modern media. I have some fun engaging with post-modernist media for a bit. Yet when it becomes the dominant force, I find myself wanting of spaces where I can express or see someone else express a genuine message. That is, a message without the threat of diving deeper into layers of irony. I see a small wave of upcoming media that lives in awkward positivity over post-modernist negativity, and I hope that becomes a trend. At least, until I get sick of that, somehow.
+From where I stand, I see post-modernism permeate a lot of modern media. I have some fun engaging with post-modernist media for a bit. Yet when it becomes the dominant force, I find myself wanting of spaces where we do more than just gloat, and instead try to exercise our moral imagination in expressing genuine messages about problems that we face.
