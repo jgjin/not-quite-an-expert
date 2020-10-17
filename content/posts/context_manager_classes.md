@@ -1,5 +1,5 @@
 ---
-title: "Context manager in Python classes"
+title: "Context managers in Python classes"
 date: 2020-10-03
 draft: false
 tags: ["programming", "technology"]
