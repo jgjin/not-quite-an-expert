@@ -24,6 +24,6 @@ The last example demonstrates another hallmark of post-modernist media: irony. I
 
 Let's start with what irony does well. For me, satire constitutes the most impactful form of irony. Without even your knowing it, satire can point out issues with (i.e. absurdities of) institutions. In addition, irony can take down harmful ideologies by reducing them to laughable, non-serious form. Rarely, however, does irony present a _solution_. Cynically, people may use irony to entertain, to revel in our shared recognition of some problem, yet never progress into thinking about tackling those problems. 
 
-In our Ironic Brand Twitter™ example, the irony points out that impersonal, manipulation-via-positivity corporate messaging (i.e. brands) dominates our culture. Yet, we don't get any recourse, only maybe a laugh.
+In our Ironic Brand Twitter™ example, the irony points out that corporations often use positivity to manipulate people to buy their products. Yet, we don't get any recourse, only maybe a laugh.
 # Conclusion
 From where I stand, I see post-modernism permeate a lot of modern media. I have some fun engaging with post-modernist media for a bit. Yet when it becomes the dominant force, I find myself wanting of spaces where I can express or see someone else express a genuine message. That is, a message without the threat of diving deeper into layers of irony. I see a small wave of upcoming media that lives in awkward positivity over post-modernist negativity, and I hope that becomes a trend. At least, until I get sick of that, somehow.
