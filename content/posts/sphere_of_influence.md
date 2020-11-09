@@ -2,7 +2,7 @@
 title: "Outside the sphere of influence"
 date: 2020-11-08T22:13:39-05:00
 draft: false
-tags: ["people", "groups", "misc"]
+tags: ["people", "management", "philosophy"]
 ---
 # Introduction
 > God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.
