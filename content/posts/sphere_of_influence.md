@@ -1,6 +1,6 @@
 ---
 title: "Outside the sphere of influence"
-date: 2020-11-08T22:13:39-05:00
+date: 2020-11-07
 draft: false
 tags: ["people", "management", "philosophy"]
 ---
