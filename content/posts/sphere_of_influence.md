@@ -7,7 +7,7 @@ tags: ["people", "management", "philosophy"]
 # Introduction
 > God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.
 
-Some might recognize this as the Serenity Prayer. Often reworded from churches to Alcohlics Anonymous, I have reproduced the version I have heard the most.
+Some might recognize this as the Serenity Prayer. Often reworded from churches to Alcoholics Anonymous, I have reproduced the version I have heard the most.
 # Sphere of influence
 Imagine a wide space of things that matter to you. In this space live 3 types of things:
 1. Things you can control
