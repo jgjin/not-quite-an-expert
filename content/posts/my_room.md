@@ -1,6 +1,6 @@
 ---
 title: "My room"
-date: 2020-11-01
+date: 2020-11-21
 draft: false
 tags: ["art", "philosophy", "misc"]
 ---
