@@ -11,7 +11,9 @@ Colors represent a visible range of frequencies of the electromagnetic spectrum,
 # Subjective
 Upon examination, this definition doesn't exhibit objectivity at all! In particular, let's interrogate "can get caught by the eye and interpreted by the brain." Other species, from birds to bees, can "see" ultraviolet light, which lies outside the human-visible range. Even within our own species, colorblind and otherwise visually impaired people don't perceive the same range of the electromagnetic spectrum; blind people don't perceive any of that range.
 
-We could adjust our objective definition of color to represent:
+{{< youtube 59YN8_lg6-U >}}
+
+WE could adjust our objective definition of color to represent:
 1. Any frequency of the electromagnetic spectrum, visible or not
 
 or more narrowly
