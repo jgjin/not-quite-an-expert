@@ -1,6 +1,6 @@
 ---
 title: "Color, from objective to subjective"
-date: 2020-11-21
+date: 2020-11-28
 draft: false
 tags: ["art", "philosophy"]
 ---

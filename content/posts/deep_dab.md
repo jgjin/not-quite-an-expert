@@ -13,7 +13,7 @@ In the summer of 2019, I lived in a _massively_ shared house with over 20 other 
 
 New to the sport, I did not play Ultimate Frisbee well. To contribute to my team, I encouraged my teammates to deep dab whenever they scored. Everybody knows the deep dab raises team morale sky high. To my disappointment, my teammates only performed shallow dabs, kiddie pool dabs, if you will. With each score-dab, I more passionately requested greater depth in the dabbing motion.
 
-Suddenly, extremely unexpectedly, I scored a point. In that moment, the meme beam did a hard U-turn back to its source. My teammates _demanded** I deep dab to celebrate my score. A victim of my own dab passion, I committed fully to this deep dab. It all culminated to this: the Most Important Dab. I shot into dabbing stance, and aimed my elbow to the ground.
+Suddenly, extremely unexpectedly, I scored a point. In that moment, the meme beam did a hard U-turn back to its source. My teammates _demanded_ I deep dab to celebrate my score. A victim of my own dab passion, I committed fully to this deep dab. It all culminated to this: the Most Important Dab. I shot into dabbing stance, and aimed my elbow to the ground.
 
 **_Riiiiiiiiiiiiiiiiiiiiip_**
 
