@@ -1,6 +1,6 @@
 ---
 title: "Making time"
-date: 2020-11-14T21:02:52-05:00
+date: 2020-11-14
 draft: false
 tags: ["people", "management"]
 ---
