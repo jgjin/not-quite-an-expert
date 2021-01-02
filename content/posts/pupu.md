@@ -24,7 +24,7 @@ Hold on, how can I so confidently present the analysis as PuPu? Rootclaim uses s
 
 I care about you, dear reader, so I don't want you to hurt yourself cutting through the dense text. For simplicity, let us assume, in Rootclaim's favor, that (feel free to skim this upcoming quote) "SARS-CoV-2 has parts in common with two different viruses, but those individual viruses do not share these similarities with each other, indicating it is a chimera. ... [T]his specific chimera seems less likely to combine in nature, as it requires interaction between hosts that do not usually cohabitate."
 
-Under this assumption, Rootclaim continues: "Since chimeras are created on a regular basis in labs, and this one is less likely to occur in nature, the likelihood that COVID-19 emerged zoonotically is decreased by 6x." **We have found our PuPu!**
+Under this assumption, Rootclaim continues (under "More >" > "Probabilistic Estimates:"): "Since chimeras are created on a regular basis in labs, and this one is less likely to occur in nature, the likelihood that COVID-19 emerged zoonotically is decreased by 6x." **We have found our PuPu!**
 
 From where does this 6x multiplier come? I urge you to go through the "Chimera" section yourself and try to find a non-arbitrary reason for 6x over 420x or 1.01x. The analysis also houses such PuPu as "The actions of the WIV conservatively increase the likelihood of a lab escape by 2x." Once again, try to find a non-arbitrary reason for 2x over 420x or 1.01x. As far as I can tell, they came from the mind, or rather the butt, of the analyzer. 
 
