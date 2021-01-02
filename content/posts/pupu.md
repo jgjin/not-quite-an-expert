@@ -14,7 +14,7 @@ For example, let's say I wanted to estimate how many metal cans you eat per week
 
 Therefore, I would estimate you eat exactly 1 * 24 * 7 = 168 metal cans per week.
 
-Despite the true claims 2 and 3, the completely arbitrary claim 1 renders the entire estimate also completely arbitrary. PuPu functions as an adjective, verb, and noun. So in other words, we _PuPu_ in claim one, so the entire estimate becomes _PuPu_, a _PuPu_ estimate.
+Despite the true claims 2 and 3, the completely arbitrary claim 1 renders the entire estimate also completely arbitrary. PuPu functions as an adjective, verb, and noun. So in other words, we _PuPu_ in claim 1, so the entire estimate becomes _PuPu_, a _PuPu_ estimate.
 
 # PuPu in the wild
 Now why do I mention PuPu? Recently, I stumbled upon a beautiful piece of PuPu! [This "analysis" by Rootclaim](https://www.rootclaim.com/analysis/what-is-the-source-of-covid-19-sars-cov-2) claims with 81% probability that COVID-19 came from gain-of-function research rather than evolved naturally. [Rootclaim also claims that](https://www.rootclaim.com/rootclaim_track_record) "[s]o far, no hypothesis in a Rootclaim analysis that received a likelihood of 50% or more was later shown to be wrong. ... Achieving such a track record under those conditions is outstanding, possibly unprecedented." A very bold PuPu, indeed.
@@ -25,12 +25,9 @@ I care about you, dear reader, so I don't want you to hurt yourself cutting thro
 
 Under this assumption, Rootclaim continues: "Since chimeras are created on a regular basis in labs, and this one is less likely to occur in nature, the likelihood that COVID-19 emerged zoonotically is decreased by 6x." **We have found our PuPu!**
 
-From where does this 6x multiplier come? The analysis also houses such PuPu as "The actions of the WIV conservatively increase the likelihood of a lab escape by 2x." From where does this 2x multiplier come? As far as I can tell, they came from the mind, or rather the butt, of the analyzer. 
+From where does this 6x multiplier come? I urge you to go through the "Chimera" section yourself and try to find a non-arbitrary reason for 6x over 420x or 1.01x. The analysis also houses such PuPu as "The actions of the WIV conservatively increase the likelihood of a lab escape by 2x." Once again, try to find a non-arbitrary reason for 2x over 420x or 1.01x. As far as I can tell, they came from the mind, or rather the butt, of the analyzer. 
 
-Among the delicious morsels and meals of information available on the internet, Rootclaim has served us a PuPu sandwich: the bottom layer an appetizing foundation of probability theory, the top layer a scrumptious-looking site with graphs, bullet points, and references. In the middle, however, Rootclaim has slipped in a generous dollop of PuPu multipliers. 
-
-**Analogous to our estimate of your metal can diet, the 81% probability becomes as arbitrary as the multipliers that yielded it.**
-
+**Analogous to our estimate of your metal can diet, the 81% probability becomes as arbitrary as the multipliers that yielded it. The rest may stay true, and with the contagious nature of arbitrariness the 81% means nothing.** Among the delicious morsels and meals of information available on the internet, Rootclaim has served us a PuPu sandwich: the bottom layer an appetizing foundation of probability theory, the top layer a scrumptious-looking site with graphs, bullet points, and references. In the middle, however, Rootclaim has slipped in a generous dollop of PuPu multipliers. 
 # I can PuPu too
 Rootclaim comes to us from Saar Wilf, a serial entrepreneur who founded Fraud Sciences, sold to PayPal for $169 million in 2008, and Trivnet, sold to Gemalto for $35 million in 2010. I don't know Wilf. However, I'd like to practice making my own arbitrary claims, my own PuPu, if you will.
 
