@@ -1,6 +1,6 @@
 ---
 title: "PuPu"
-date: 2021-01-01
+date: 2021-01-02
 draft: false
 tags: ["philosophy", "language", "people"]
 ---
