@@ -4,6 +4,7 @@ date: 2021-01-23
 draft: false
 tags: ["language", "philosophy", "programming", "technology"]
 ---
+[Continued in this post]({{< ref "medium_nudges.md" >}})
 # Introduction
 The Sapir-Whorf hypothesis states that the structure of a language influences the cognition of its speaker. Now, before we proceed, I caution that ["there is probably no single linguistic idea that is more prone to exaggeration and mis-application than the 'Sapir-Whorf hypothesis.'"](https://languagelog.ldc.upenn.edu/nll/?p=2592) Let's see an example.
 # Whodunit?
@@ -25,6 +26,3 @@ blame(james);
 Unlike in English or in Spanish, in C++ we must know "who deserves blame" (i.e. the value of argument `target` in `blame`). The programming language specification very strictly sets out how we can express ideas, in order to translate (compile) into machine instructions.
 # Conclusion
 I hypothesize that the Sapir-Whorf hypothesis applies even more strongly to technical language. In a technical language, you have a "way to do things," and that way to do things strongly influences how you think about and solve problems in the technical domain.
-
-
-
