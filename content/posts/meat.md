@@ -16,10 +16,10 @@ This definition of meat includes fried spider and excludes Impossible Burger, a 
 [^1]: Some definitions restrict meat to mammals. You can replace "fried spider" with ["Rocky Mountain oyster"](https://en.wikipedia.org/wiki/Rocky_Mountain_oysters) and the argument still works.
 
 I'll hazard a guess that if I gave you an Impossible Burger you would think 
->_What did not-quite-an-expert mix into this patty?_ 
+>What did not-quite-an-expert mix into this patty?
 
 rather than 
->_What non-meat did not-quite-an-expert sandwich between these buns?_
+>What non-meat did not-quite-an-expert sandwich between these buns?
 
 If not, I'd otherwise guess that you would associate Impossible Burger much more closely to beef than fried spider to beef.
 # Duck test
