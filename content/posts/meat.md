@@ -21,7 +21,7 @@ I'll hazard a guess that if I gave you an Impossible Burger you would think
 rather than 
 >_What non-meat did not-quite-an-expert sandwich between these buns?_
 
-If not, I'd otherwise guess that you would associate Impossible Burger much more closely to beef than fried spider.
+If not, I'd otherwise guess that you would associate Impossible Burger much more closely to beef than fried spider to beef.
 # Duck test
 > If it looks like a duck, swims like a duck, and quacks like a duck, then it's probably a duck.
 
