@@ -15,10 +15,10 @@ If you do deep computer-y stuff often, you could probably benefit from learning 
 # Choosing a shell / terminal
 More formally, a terminal emulator (or simply "terminal"), a computer program, presents a command-line interface to run commands interactively in the computer's shell. However, most of the time you can use "terminal," "shell," and "command-line" interchangeably.
 
-I use the kitty[^2] terminal emulator because it renders faster than the default macOS Terminal. kitty also offers tabs, which allow you to more easily run multiple commands simultaneously. This becomes especially useful when you have long-running commands, such as compiling a large code project.
+I use the [kitty terminal emulator](https://sw.kovidgoyal.net/kitty/) because it renders faster than the default macOS Terminal. kitty[^2] also offers tabs, which allow you to more easily run multiple commands simultaneously. This becomes especially useful when you have long-running commands, such as compiling a large code project.
 [^2]: Computer-y stuff often gets stylized all lowercase.
 
-I use Z shell (usually shortened to "zsh") because the community offers a plethora of nice plugins for zsh.
+I use Z shell (usually shortened to "zsh") because the community offers a plethora of nice plugins for zsh. As mentioned in [a previous post, which provides some more background on zsh]({{< ref "mac_homebrew.md" >}}), newer macOS versions come with zsh by default.
 # zsh plugins
 [Oh My Zsh](https://ohmyz.sh/) seems to have the greatest popularity of zsh configuration managers. However, I've found Oh My Zsh bloats my terminal startup time to multiple seconds. Instead, I use the more lightweight [Antibody](https://getantibody.github.io/).
 
