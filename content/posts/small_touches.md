@@ -35,4 +35,4 @@ Paul hired multiple singers and told them the lyrics: "fruity fruity fruity frui
 Do you think they did multiple takes? What fruit do you think Paul had in mind?[^2] Such wonderful questions! Once again I find myself filled to bursting with joy that this exists! 
 [^2]: I put a Cosmic Crisp apple in the picture next to Paul, a fun little anachronism because Cosmic Crisp started growing commercially in 2017.
 # Conclusion
-Call me simple; call me weird. That doesn't change how joyous I get when a small touch evokes the quirks of the creative process. 
+Call me simple; call me weird. That doesn't change how joyous I get when a small touch evokes the quirks of a creative process.
