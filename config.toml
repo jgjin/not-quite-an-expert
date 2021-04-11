@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "not quite an expert"
 theme = "hugo-theme-m10c"
+enableEmoji=true
 
 [params]
     author = "Jason Jin"
