@@ -1,7 +1,7 @@
 ---
 title: "imprecise words"
 date: 2021-04-03
-draft: true
+draft: false
 tags: ["language", "people"]
 ---
 no set of words, arranged in any order, can make you feel the exact way I do

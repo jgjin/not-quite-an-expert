@@ -1,7 +1,7 @@
 ---
 title: "Why Aristotle?"
 date: 2021-04-17
-draft: true
+draft: false
 tags: ["philosophy", "people", "language"]
 ---
 # Introduction
@@ -15,13 +15,13 @@ In _Politics_, Aristotle jabbers:
 
 In _Nicomachean Ethics_, which Brooks cites, Aristotle specifically discusses φιλία, philia, which roughly translates to "friendship." Aristotle clarifies imperfect philia (in contrast to the "perfect friendship" Brooks describes) may exist between people of unequal standing. However, in these cases Aristotle instructs that the person of higher standing should receive more affection. Examples Aristotle provides include ruler-subject and, extending the previous jabbering, husband-wife.
 
-If I said to you that the "inFeRiOr sUbJEcT" wife should give more affection than her "suPeRiOr rULeR" husband than he gives to her. I would hope you would stop taking me seriously on the topic of relationships. By substitution, I hope you'll now take Aristotle's thoughts on relationships with a block of salt.
+If I said to you that the "inFeRiOr sUbJEcT" wife should give more affection to her "suPeRiOr rULeR" husband than he gives to her, I would hope you would stop taking me seriously on the topic of relationships. By substitution, I hope you'll now take Aristotle's thoughts on relationships with a block of salt.
 
 So once again: why Aristotle? I can think of 2 reasons:
 # Ancient wisdom
 One might refer to Aristotle to evoke ancient wisdom. Certainly Aristotle, one of the most influential philosophers of all time, has plenty of wisdom to impart. However, I think Aristotle also proves that great people don't always have great ideas, and over time some "ancient wisdom" spoils to become "ancient folly."
 # Sophistication
-Otherwise, Aristotle lends an air of scholarly sophistication. Evoking Aristotle (or Socrates, or Plato, or **\*gasp\*** some other ancient Greek philosopher you haven't heard of) implies having read, or at least learned about some Important Works, **thicc** (:tongue::sweat_drops:) texts rife with protracted run-ons and outdated references. The confusing framings and antiquated science seem almost prescribed to induce headache; wading through most sections risks excrutiating boredom more than any particular knowledge. 
+Otherwise, Aristotle lends an air of scholarly sophistication. Evoking Aristotle (or Socrates, or Plato, or **\*gasp\*** some other ancient Greek philosopher you haven't heard of) implies having read, or at least learned about, some Important Works, **thicc** (:tongue::sweat_drops:) texts rife with protracted run-ons and outdated references. The confusing framings and antiquated science seem almost prescribed to induce headache; wading through most sections risks excrutiating boredom more than any particular knowledge. 
 
 You pay this "no fun tax" so you can come off sophisticated. Having paid a small sum myself, I feel obligated to make something of it, so I have written this post. 
 # Conclusion
