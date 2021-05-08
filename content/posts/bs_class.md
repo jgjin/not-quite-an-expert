@@ -14,4 +14,4 @@ After the quiz, my classmate revealed the teacher was considering kicking out th
 
 Realizing I personally didn't care about the world of English literature, I marched up to the teacher and cussed them out. "If this course involves enduring such stupidity, suffering such nonsense, wading through such **BS**, I'll gladly dEmOTe myself to the regular English track."
 
-And then I woke up. I can't tell you if I got kicked out; the [diegesis]({{< ref "diegesis.md" >}}) doesn't really matter to me. After recontextualizing myself into the waking world, I thought about all the BS I had dragged myself through because I thought I _should_.
+And then I woke up. I can't tell you what happens after that; the [diegesis]({{< ref "diegesis.md" >}}) doesn't really matter. After recontextualizing myself into the waking world, I thought about all the BS I had dragged myself through because I thought I _should_.
