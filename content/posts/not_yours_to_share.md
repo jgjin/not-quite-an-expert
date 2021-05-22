@@ -11,7 +11,7 @@ Situated near a weed shop and home to [Green Wolverine](https://www.greenwolveri
 
 "Could you please stop joking about weed? I thought you would take the hint or drop it if I ignored the joke. Some of the upperclassmen in my club don't really approve of weed, and they could've overheard your joke."
 
-Shame washed over me. I pushed back a bit in my head, something about owning up to your actions. However, I knew A had it right. Even if A had openly smoked in front of me, I shouldn't've openly shared that fact, at risk of A's reputation.
+Shame washed over me. I pushed back a bit in my head, something about owning up to your actions. However, I knew A had it right. Even if A had openly smoked in front of me, I shouldn't've openly shared that fact at risk of A's reputation.
 # II
 "Actually, not-quite-an-expert, I know a few gay people."
 
