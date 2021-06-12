@@ -28,7 +28,7 @@ are crazy, perfidious tripe ... .
 
 > My painting is dead.
 Defend it for me, Giovanni, protect my honor.
-I am not in the right place—I am not a painter
+I am not in the right place—I am not a painter.
 
 First, let's all admire the phrase:
 
