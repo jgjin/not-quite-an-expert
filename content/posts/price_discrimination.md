@@ -4,6 +4,7 @@ date: 2021-06-05
 draft: false
 tags: ["misc", "people"]
 ---
+[Continued in this post]({{< ref "versioning_unbundling.md" >}})
 # Introduction
 People value the same products differently. Therefore, they will pay more or less for the same products. How, then, as a seller of products, do you make the most money? You try to charge people as close to the best price you can get from them.
 # Simplified example
@@ -21,7 +22,7 @@ In the simplified example, the coupon formed the hurdle between the higher and l
 # Airlines
 Airlines will charge different prices for the same seat on the same flight, depending on how long before the flight the customer books the ticket. 
 
-Generally, the earlier the customer books, the cheaper the flight. A customer who _really_ wants/needs a cheaper ticket will go through the hurdle of booking earlier; a customer who doesn't care as much will book at a more convenient time. Additionally, a customer with a strict,_urgent_ need to fly will book close to departure, and will pay more for it.
+Generally, the earlier the customer books, the cheaper the flight. A customer who _really_ wants/needs a cheaper ticket will go through the hurdle of booking earlier; a customer who doesn't care as much will book at a more convenient time. Additionally, a customer with a strict, _urgent_ need to fly will book close to departure, and will pay more for it.
 # Conclusion
 Of course, price discrimination doesn't come so simply or perfectly as the Lorem example in the real world. Sellers will often employ multiple types of hurdles, or not implement some hurdle at all because it costs too much. Obviously, no combination of hurdles will perfectly adjust to people's willingnesses to pay, and people will react negatively if they feel they're getting gouged.
 
