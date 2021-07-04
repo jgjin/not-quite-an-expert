@@ -22,3 +22,8 @@ enableEmoji=true
     lightColor = "#fcf8fd"
     lightestColor = "#ffffff"
     primaryColor = "#c34bcc"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
