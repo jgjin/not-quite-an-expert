@@ -13,7 +13,7 @@ A useful definition of product category stems from user need; products that fulf
 
 I already have good speakers, a good integrated amp for speakers, and good noise-canceling headphones. Therefore, I can pare down the audio equipment category to exclude those. More precisely, I am looking for a headphones amp with good sound quality and portability.
 # Satisfice
-As I talked about in [a previous post]{{< ref "satisficing.md" >}}, "satisficing" involves looking for the first acceptable solution. For BFCM, this could involve:
+As I talked about in [a previous post]({{< ref "satisficing.md" >}}), "satisficing" involves looking for the first acceptable solution. For BFCM, this could involve:
 1. Pulling up a list of headphones amps on sale for BFCM
 2. Picking the first one that looks good
 
