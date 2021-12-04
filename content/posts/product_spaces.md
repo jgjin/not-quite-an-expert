@@ -17,7 +17,7 @@ As I talked about in [a previous post]({{< ref "satisficing.md" >}}), "satisfici
 1. Pulling up a list of headphones amps on sale for BFCM
 2. Picking the first one that looks good
 
-By framing the satisficing strategy this way, I hope to impress that satisficing boasts simplicity, minimizing cognitive load and time spent, while satisficing possibly better solutions. I care enough about audio equipment that satisficing does not _satisfy_ me, though it may serve you well. 
+By framing the satisficing strategy this way, I hope to impress that satisficing boasts simplicity, minimizing cognitive load and time spent, while likely sacrificing better solutions. I care enough about audio equipment that satisficing does not _satisfy_ me, though it may serve you well. 
 # Cross-curate
 The strategy I use involves:
 1. Pulling up general lists of best headphones amps
