@@ -11,4 +11,5 @@ The distinction between instrumental and terminal depends on perspective, where 
 I'd like to end with 3 practical observations about instrumental and terminal goals:
 1. Instrumental goals can simultaneously support and undermine a variety of other instrumental and terminal goals. Particularly, using limited resources, e.g. time, on instrumental goals implicitly undermines unsupported terminal goals.
 2. You can persuade others (including your future self) by showing an instrumental goal supports a more terminal goal _from their perspective_.
-3. In long-term action, it helps to recontextualize whether your active goals _do_ and _still_ support your terminal goals.
+3. In long-term action, it helps to recontextualize whether your active goals _do_ and _still_ support your terminal goals.[^1]
+[^1]: You may have difficulty figuring out your priority of terminal goals. [Frankena](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/) has a list you may consider.
