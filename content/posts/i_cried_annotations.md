@@ -33,5 +33,3 @@ Death juxtaposes life. I wonder if I'm living as I should, or could. I wonder if
 Final exam season of freshman year, my roommate returned home before I did. For those final days, I faced his empty bed and swallowed acute homesickness. I dreamt of my mother dying. I walked behind her and my sister down a tunnel of white light. My sister said goodbye; I don't remember if I said anything. I woke up, and as I wrote down panicked, "bled tears into the pillow."
 
 In the hole of pondering death, I worried I lost the capacity for strong emotion. I had enough to cry. I have enough.
-
-
