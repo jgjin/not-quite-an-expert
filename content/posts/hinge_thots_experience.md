@@ -2,7 +2,7 @@
 title: "Hinge thots I: actual experience"
 date: 2024-04-06
 draft: false
-tags: ["people"]
+tags: ["groups", "people"]
 ---
 I finally created a dating app profile on Hinge! I had hesitated for so long because doing so requires confronting big questions like:
 1. What do I even want?

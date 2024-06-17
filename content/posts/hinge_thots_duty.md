@@ -2,7 +2,7 @@
 title: "Hinge thots II: duty"
 date: 2024-04-13
 draft: false
-tags: ["people"]
+tags: ["groups", "people"]
 ---
 What do you owe to someone you've dated? Intuitively, you owe more the more you've dated. However, my friends have given me pretty different answers.
 
