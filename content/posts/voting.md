@@ -2,7 +2,7 @@
 title: "Voting, and system design matters"
 date: 2020-03-28
 draft: false
-tags: ["people", "groups", "management"]
+tags: ["groups", "people"]
 ---
 [Continued in this post]({{< ref "voting_cont.md" >}})
 # Introduction

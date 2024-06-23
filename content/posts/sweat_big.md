@@ -2,7 +2,7 @@
 title: "Sweat the big stuff"
 date: 2022-01-22
 draft: false
-tags: ["people", "management"]
+tags: ["groups", "people"]
 ---
 Today I met someone who told me they finessed their credit card benefits to save up to a few hundred dollars on food and transportation during their move. When I asked how much they were paying for their new place, they revealed a monthly rent about $1000 more than mine (after splitting with my roommate). 
 

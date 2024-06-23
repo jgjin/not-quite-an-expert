@@ -2,7 +2,7 @@
 title: "Partial reinforcement and addictive games"
 date: 2020-06-27
 draft: false
-tags: ["art", "people", "management", "technology"]
+tags: ["art", "groups", "people", "technology"]
 ---
 # Introduction
 I've been gaming a lot recently, so this has been on my mind.

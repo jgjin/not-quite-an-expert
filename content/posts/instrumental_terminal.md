@@ -2,7 +2,7 @@
 title: "Instrumental and terminal"
 date: 2022-05-21
 draft: false
-tags: ["philosophy", "management", "people"]
+tags: ["groups", "people", "philosophy"]
 ---
 We can characterize goals as either "instrumental" or "terminal." We care about instrumental goals _in support of others_, and about terminal goals _in themselves_. For example, the instrumental goal of [figuring out whether seaweed counts as a plant]({{< ref "seaweed.md" >}}) supports the terminal goal of understanding the natural world.
 

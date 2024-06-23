@@ -2,7 +2,7 @@
 title: "Sunk cost and \"free\""
 date: 2022-02-05
 draft: false
-tags: ["people", "management"]
+tags: ["groups", "people"]
 ---
 Recently, I paid $159 for a 1-year bikeshare membership. In San Francisco, most trips I want to take stay within 2 miles one way, so this membership's free 45-minute rides work out well.
 

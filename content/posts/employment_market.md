@@ -2,7 +2,7 @@
 title: "Institutions defined (by me, not quite an expert), and employment is a market"
 date: 2020-03-21
 draft: false
-tags: ["people", "groups", "management"]
+tags: ["groups", "people"]
 ---
 # Introduction
 As a society, we use 5 broad classes of institutions: hierarchies, democracies, markets, self-organization, and algorithms. Let us start with a basic question:

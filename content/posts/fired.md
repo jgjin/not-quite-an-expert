@@ -2,7 +2,7 @@
 title: "Fired"
 date: 2022-10-22
 draft: false
-tags: ["people", "management"]
+tags: ["groups", "people"]
 ---
 Truthfully, I did not [transition my mindset between roles]({{< ref "boundaries.md" >}}) fast enough, at least in the eyes of my manager (and their manager). 6 weeks into my job, my manager sat me down, and told me to shape up or get out.
 

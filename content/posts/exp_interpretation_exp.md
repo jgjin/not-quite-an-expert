@@ -2,7 +2,7 @@
 title: "Experience, interpretation, experience"
 date: 2022-10-29
 draft: false
-tags: ["people", "philosophy", "management"]
+tags: ["groups", "people", "philosophy"]
 ---
 Philosophies as broad as Buddhism to Stoicism separate experience from interpretation. For example, you may experience someone looking at you, and you may interpret that look to mean attraction, or hatred, or nothing at all. Though we often share interpretation, the separation from experience emphasizes choice: we choose how we interpret our experiences.
 

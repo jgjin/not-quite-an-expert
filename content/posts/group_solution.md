@@ -2,7 +2,7 @@
 title: "Restricting the solution space can restrict the benefits of group decision-making"
 date: 2020-01-25
 draft: false
-tags: ["people", "groups", "management"]
+tags: ["groups", "people"]
 ---
 # Introduction
 For complex and difficult decisions, institutions often employ groups to make those decisions. For example, legal systems employ juries and companies employ hiring committees. Institutions prefer these groups because they are (hopefully) less likely to have inappropriate biases and because they draw from a wider pool of knowledge and information than individual members. Here's an interesting idea: no matter the characteristics of the problem, a restricted solution space can restrict these previously mentioned benefits. Let us consider an example.

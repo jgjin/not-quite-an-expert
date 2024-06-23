@@ -2,7 +2,7 @@
 title: "Confidences and certainties"
 date: 2022-03-05
 draft: false
-tags: ["management", "people"]
+tags: ["groups", "people"]
 ---
 When working together, people often demand of us two seemingly contradictory qualities: confidence and humility. At first glance, an excess of confidence will undermine humility, and an excess of humility will undermine confidence. Supposedly, you should strive for a balance, in the middle.
 

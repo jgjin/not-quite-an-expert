@@ -2,7 +2,7 @@
 title: "I dreamt of missing class"
 date: 2021-05-01
 draft: false
-tags: ["misc", "management"]
+tags: ["groups", "misc"]
 ---
 again. I commonly dream about school, I guess because school had dictated my life for so long. When I miss class in these dreams, I don't miss _one class_. I discover I had some class all along, and I have missed _all classes so far_.
 

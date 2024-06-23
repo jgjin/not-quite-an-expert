@@ -2,7 +2,7 @@
 title: "Making time"
 date: 2020-11-14
 draft: false
-tags: ["people", "management"]
+tags: ["groups", "people"]
 ---
 # Introduction
 Like me, you probably have a list of background to-dos that you want to eventually get around to. They range in importance from big passion projects to small decoration ideas. However, it often seems you just don't have enough time for them. You have work or classes. This week you have an appointment for _this_ or preparation for _that_, so next week probably works better. Or maybe you don't feel you can set aside a long enough chunk of time to really commit to this to-do.

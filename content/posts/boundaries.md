@@ -2,7 +2,7 @@
 title: "Work and boundaries"
 date: 2022-10-15
 draft: false
-tags: ["people", "management"]
+tags: ["groups", "people"]
 ---
 My first job out of college, I worked for Google during the pandemic. Both those taught me to set boundaries between my professional work and my other interests. I learned to remove distracting work apps from my phone; I learned to not feel guilty stopping early some days; I learned to get back to it tomorrow, or later.
 

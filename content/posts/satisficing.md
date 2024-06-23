@@ -2,7 +2,7 @@
 title: "Satisficing"
 date: 2021-05-15
 draft: false
-tags: ["management", "people"]
+tags: ["groups", "people"]
 ---
 # Introduction
 Today I shopped for a plain white t-shirt. My requirements:

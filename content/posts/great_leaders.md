@@ -2,7 +2,7 @@
 title: "Great leaders"
 date: 2021-10-16
 draft: false
-tags: ["management", "philosophy", "people"]
+tags: ["groups", "people", "philosophy"]
 ---
 Do you believe in great leaders? I don't mean that rhetorically.
 
