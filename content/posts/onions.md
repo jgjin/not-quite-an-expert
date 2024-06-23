@@ -2,7 +2,7 @@
 title: "Onions and lies"
 date: 2020-01-11
 draft: false
-tags: ["art", "food", "cooking"]
+tags: ["art", "food"]
 ---
 [Continued in this post]({{< ref "onions_cont.md" >}})
 # Introduction

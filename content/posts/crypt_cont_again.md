@@ -2,7 +2,7 @@
 title: "A very, very light introduction to security continued again"
 date: 2020-05-30
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 [A continuation of this post]({{< ref "crypt_cont.md" >}})
 

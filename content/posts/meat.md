@@ -2,7 +2,7 @@
 title: "What is meat?"
 date: 2021-03-20
 draft: false
-tags: ["food", "cooking", "language"]
+tags: ["food", "language"]
 ---
 # Introduction
 Let's start with a widely accepted definition:

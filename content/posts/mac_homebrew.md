@@ -2,7 +2,7 @@
 title: "Configuring my new (new) Mac I: Homebrew"
 date: 2021-01-16
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 In this series of posts I'd like to walk through the process of configuring my new Mac to

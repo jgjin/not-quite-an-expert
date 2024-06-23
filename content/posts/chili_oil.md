@@ -2,7 +2,7 @@
 title: "Sichuanese chili oil"
 date: 2023-03-04
 draft: false
-tags: ["cooking", "food"]
+tags: ["food"]
 ---
 Sichuanese chili oil, 红油, has a beautiful texture, fragrance, color, and flavor.
 

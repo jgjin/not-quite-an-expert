@@ -2,7 +2,7 @@
 title: "Let's actually build a random Spotify album selector!"
 date: 2020-05-16
 draft: false
-tags: ["programming", "technology", "art", "music"]
+tags: ["art", "music", "technology"]
 ---
 [A continuation of this post]({{< ref "spotify_selector.md" >}})
 # Introduction

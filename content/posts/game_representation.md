@@ -2,7 +2,7 @@
 title: "Computing sequential games: representation"
 date: 2022-04-09
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 Let's solve a sequential game of complete and perfect information with computers! First, let's define such a game. Then, let's describe how to represent such a game with computers. Later, we'll describe an algorithm to solve such a game.

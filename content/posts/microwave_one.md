@@ -2,7 +2,7 @@
 title: "Four views on Microwave Cooking for One"
 date: 2020-09-12
 draft: false
-tags: ["art", "food", "cooking", "people", "technology"]
+tags: ["art", "food", "people", "technology"]
 ---
 # Introduction
 [From the Amazon listing](https://www.amazon.com/Microwave-Cooking-One-Marie-Smith/dp/1565546660):

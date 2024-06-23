@@ -2,7 +2,7 @@
 title: "Rose absolute II: adulterate"
 date: 2024-06-01
 draft: false
-tags: ["cooking", "art"]
+tags: ["art", "food"]
 ---
 I ended up buying 200-proof "food-grade" ethanol. "Food-grade" doesn't mean you should drink it; it means un-denatured - typically alcohol comes denatured with bad-tasting mixins to discourage young children from consuming.
 

@@ -2,7 +2,7 @@
 title: "The smoking backup"
 date: 2020-10-17
 draft: false
-tags: ["cooking", "technology", "misc"]
+tags: ["food", "misc", "technology"]
 ---
 Story time, buckos.
 

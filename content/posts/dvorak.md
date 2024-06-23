@@ -2,7 +2,7 @@
 title: "Dvorak"
 date: 2021-08-14
 draft: false
-tags: ["technology", "programming"]
+tags: ["technology"]
 ---
 # Introduction
 In my last post, I noted ["the QWERTY layout does NOT prioritize the comfort of the human hand."]({{< ref "qwerty.md" >}}) This did not escape the attention of August Dvorak, who in the 1930s created the Dvorak layout:

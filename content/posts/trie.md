@@ -2,7 +2,7 @@
 title: "Trie-d chords"
 date: 2022-04-02
 draft: false
-tags: ["programming", "language"]
+tags: ["language", "technology"]
 ---
 In my [last post]({{< ref "chords.md" >}}), I explained the notion of "chords." English words analogize to "chords" of Latin letters. And as it turns out, thinking of English words as "chords" gives us a useful way to approach common problems involving English words.
 

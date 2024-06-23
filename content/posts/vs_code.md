@@ -2,7 +2,7 @@
 title: "From Emacs to VS Code"
 date: 2022-11-05
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 Recently, I switched from Emacs to VS Code as my primary text editor. For those who knew me well, this represents a significant change.
 # I: Eclipse eclipsed

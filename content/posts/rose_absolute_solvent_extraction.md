@@ -2,7 +2,7 @@
 title: "Rose absolute I: solvent extraction"
 date: 2024-05-25
 draft: false
-tags: ["cooking", "art"]
+tags: ["art", "food"]
 ---
 Let's say you really want to smell the roses, like a concentrated BLAST of roses. Only a small portion of roses creates its smell, which you can extract into rose absolute.
 

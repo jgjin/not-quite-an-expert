@@ -2,7 +2,7 @@
 title: "async Python tips"
 date: 2020-08-22
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 When you live on the edge, you get cut! `async` came to Python rather recently, so I've been "cut" using it quite a few times. If you want to get started with `async` Python, I have a few tips:

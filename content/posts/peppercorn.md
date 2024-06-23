@@ -2,7 +2,7 @@
 title: "Let's go on a peppercorn adventure!"
 date: 2020-03-07
 draft: false
-tags: ["art", "food", "cooking"]
+tags: ["art", "food"]
 ---
 # Introduction
 I bought a ([nice](https://www.amazon.com/gp/product/B00E89TUUA/)) pepper mill (because [my last one](https://www.amazon.com/gp/product/B07WMRK653/) broke)!

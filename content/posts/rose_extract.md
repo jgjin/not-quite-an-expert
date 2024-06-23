@@ -2,7 +2,7 @@
 title: "Rose extract"
 date: 2022-06-11
 draft: false
-tags: ["food", "cooking", "people"]
+tags: ["food", "people"]
 ---
 Today I bought roses from Trader Joe's. The cashier probably thought I was buying them for my girlfriend.
 

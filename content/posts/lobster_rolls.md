@@ -2,7 +2,7 @@
 title: "Lobster rolls"
 date: 2021-11-13
 draft: false
-tags: ["food", "cooking", "groups", "people"]
+tags: ["food", "groups", "people"]
 ---
 # I: Lobster
 I've spent the past 2 weeks in the Boston area. In my time around Boston, I've had 3 lobster rolls: one at James Hook & Co., one at Saltie Girl, and one at Neptune Oyster. 3 lobster rolls in, I sure feel like I ate lobster and butter and bread.[^1]

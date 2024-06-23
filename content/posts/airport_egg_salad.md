@@ -2,7 +2,7 @@
 title: "Recipe for Airport Egg Salad Sandwiches"
 date: 2022-12-17
 draft: false
-tags: ["cooking", "food", "art"]
+tags: ["art", "food"]
 ---
 1. Start with a _uniquely_ textured bread. 
 

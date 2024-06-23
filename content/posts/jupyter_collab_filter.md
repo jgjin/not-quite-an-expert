@@ -2,7 +2,7 @@
 title: "Jupyter, and collaborative filtering continued"
 date: 2020-04-25
 draft: false
-tags: ["people", "groups", "programming", "technology"]
+tags: ["groups", "people", "technology"]
 ---
 [A continuation of this post]({{< ref "collab_filter.md" >}})
 # Introduction

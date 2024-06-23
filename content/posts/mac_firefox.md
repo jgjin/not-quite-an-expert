@@ -2,7 +2,7 @@
 title: "Configuring my new Mac II: Firefox"
 date: 2021-01-30
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 For most users, the web browser connects the computer to _everything else_. For compatibility, availability, and reliability, more and more apps are moving into the web browser. You, or at least I, send messages, edit documents, and watch videos from a browser.

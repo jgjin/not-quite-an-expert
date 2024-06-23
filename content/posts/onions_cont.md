@@ -2,7 +2,7 @@
 title: "The onion saga continues"
 date: 2020-02-08
 draft: false
-tags: ["art", "food", "cooking"]
+tags: ["art", "food"]
 ---
 [A continuation of this post]({{< ref "onions.md" >}})
 # Caramelized shallots

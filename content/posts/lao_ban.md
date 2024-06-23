@@ -2,7 +2,7 @@
 title: "老板 (Laoban), dumplings"
 date: 2023-10-07
 draft: false
-tags: ["cooking", "food", "people"]
+tags: ["food", "people"]
 ---
 # I 老板
 My mother asserts in name.

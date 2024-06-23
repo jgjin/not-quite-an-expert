@@ -2,7 +2,7 @@
 title: "Lychee and lime"
 date: 2022-06-18
 draft: false
-tags: ["cooking", "food", "art"]
+tags: ["art", "food"]
 ---
 I dream of lychee and lime. I dream of a floral sweet accentuated by a tangy sour. 
 

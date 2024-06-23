@@ -2,7 +2,7 @@
 title: "Stenotype"
 date: 2022-02-26
 draft: false
-tags: ["technology", "programming"]
+tags: ["technology"]
 ---
 When building a keyboard, you make a lot of choices. 
 

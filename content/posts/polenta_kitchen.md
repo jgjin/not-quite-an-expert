@@ -2,7 +2,7 @@
 title: "I don't like polenta, and I miss my kitchen"
 date: 2020-02-29
 draft: false
-tags: ["art", "food", "cooking"]
+tags: ["art", "food"]
 ---
 # Introduction
 This week I'm back at my parents'[^1] house. For dinner, I cooked some shrimp and vegetables with polenta.

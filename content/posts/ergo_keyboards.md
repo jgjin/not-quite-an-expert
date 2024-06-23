@@ -2,7 +2,7 @@
 title: "Ergonomic keyboards"
 date: 2021-07-03
 draft: false
-tags: ["programming", "technology", "people"]
+tags: ["people", "technology"]
 ---
 # Introduction
 I want you to sit or stand. Now, hold your left arm up with your right arm (like you're aiming an arm cannon on your left arm), and relax your left arm as much as possible.

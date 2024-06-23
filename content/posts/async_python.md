@@ -2,7 +2,7 @@
 title: "async Python"
 date: 2020-08-15
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 Often, hardware I/O bottlenecks a program's latency, thoroughput, and/or run time. That is, file and network actions slow down the program most significantly. A program often consists of many independent file and network actions. In those cases, Python gives us the `async` construct for running the actions asynchronously.

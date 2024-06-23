@@ -2,7 +2,7 @@
 title: "Reasons to cook"
 date: 2022-03-12
 draft: false
-tags: ["cooking", "food", "art", "people"]
+tags: ["art", "food", "people"]
 ---
 # Introduction
 Since moving to San Francisco, I've cooked fewer times than I can count with my left hand. This seems strange for someone who cares enough about cooking to write about it.

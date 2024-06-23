@@ -2,7 +2,7 @@
 title: "Generators in Python: \"good lazy\""
 date: 2020-02-01
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 Generators are functions that behave like iterators. They allow us to evaluate values only as we need them ("lazily evaluate", or "lazy evaluation").

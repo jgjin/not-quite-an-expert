@@ -2,7 +2,7 @@
 title: "San Francisco Bahn Mi"
 date: 2023-08-12
 draft: false
-tags: ["cooking", "food", "art"]
+tags: ["art", "food"]
 ---
 # Preparation
 * 1 bottle of vinegar from the Safeway you only go to at night with the homeless people

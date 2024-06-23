@@ -2,7 +2,7 @@
 title: "Voting continued"
 date: 2020-04-04
 draft: false
-tags: ["people", "groups", "management", "programming", "technology"]
+tags: ["groups", "management", "people", "technology"]
 ---
 [A continuation of this post]({{< ref "voting.md" >}})
 

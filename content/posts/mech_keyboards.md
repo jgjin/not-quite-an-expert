@@ -2,7 +2,7 @@
 title: "So, you wanna get into mechanical keyboards, eh?"
 date: 2020-06-20
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 Well, do you? Because I've got a guide from someone who's not quite an expert: me!

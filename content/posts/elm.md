@@ -2,7 +2,7 @@
 title: "Elm, or my first time with pure functional"
 date: 2019-12-28
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 [The Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique/) employs roughly 30-minute cycles, 25 minutes working on a task then 5 minutes taking a break, to get work done. Unfortunately, some tasks, particularly programming, involve [a state of flow](https://en.wikipedia.org/wiki/Flow_(psychology/)) which would get interrupted by 30-minute cycles. The simpler Flow Time Technique allows for flow by relaxing the 25-/5-minute constraint in favor of deciding on your own when to take breaks.

@@ -2,7 +2,7 @@
 title: "Context managers in Python"
 date: 2020-08-08
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 In programming, we often need to manage resources that "open" and "close." As a simple example, you might open a file, read its contents, then close it.

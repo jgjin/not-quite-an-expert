@@ -2,7 +2,7 @@
 title: "Configuring my new Mac III: zsh / kitty"
 date: 2021-03-27
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 A command-line interface (CLI) lets you run lower-level operations ("commands") quickly and flexibly. For example, suppose I have 1000 .txt files that I wanted to rename only if they contain the word "banana" or "onion" (ignoring case, so "Onion" and "Banana" included). I can simply run 

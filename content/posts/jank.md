@@ -2,7 +2,7 @@
 title: "JANK™"
 date: 2021-01-09
 draft: false
-tags: ["technology", "cooking"]
+tags: ["food", "technology"]
 ---
 The laws of nature dictate that whenever I, your beloved not-quite-an-expert, get a new computer JANK™ ensues.
 

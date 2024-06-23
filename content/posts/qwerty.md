@@ -2,7 +2,7 @@
 title: "QWERTY"
 date: 2021-08-07
 draft: false
-tags: ["technology", "programming"]
+tags: ["technology"]
 ---
 # Introduction
 Unless you've explicitly chosen NOT to, you're probably typing on a QWERTY keyboard. Starting from the Q key, read each right-adjacent letter: Q W E R T Y, a QWERTY keyboard.

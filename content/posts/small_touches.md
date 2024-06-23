@@ -2,7 +2,7 @@
 title: "Small touches"
 date: 2021-04-10
 draft: false
-tags: ["art", "food", "cooking", "music"]
+tags: ["art", "food", "music"]
 ---
 # Introduction
 I haven't been cooking as much as I would like lately. To fill that gap, I've been watching videos from the emmymade channel:

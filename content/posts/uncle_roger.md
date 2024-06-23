@@ -2,7 +2,7 @@
 title: "Uncle Roger"
 date: 2022-10-01
 draft: false
-tags: ["cooking", "food", "philosophy", "groups", "people"]
+tags: ["food", "groups", "people", "philosophy"]
 ---
 {{< youtube t_KdbASIkB8 >}}
 

@@ -2,7 +2,7 @@
 title: "叉燒包"
 date: 2021-09-11
 draft: false
-tags: ["food", "cooking", "language"]
+tags: ["food", "language"]
 ---
 # Introduction
 This week I'm staying near San Francisco's Chinatown. I woke up with a craving for 叉燒包, so I headed to the closest Chinese bakery.

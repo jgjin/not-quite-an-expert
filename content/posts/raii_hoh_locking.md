@@ -2,7 +2,7 @@
 title: "Hand-over-hand locking with the RAII pattern"
 date: 2020-04-18
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 Let's start by explaining locks (mutexes), hand-over-hand locking, and RAII. Then we'll provide some sample code to accomplish hand-over-hand locking with the RAII pattern.

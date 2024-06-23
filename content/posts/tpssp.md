@@ -2,7 +2,7 @@
 title: "Third person singular simple present"
 date: 2023-12-30
 draft: false
-tags: ["language", "programming"]
+tags: ["language", "technology"]
 ---
 The product summary for my new electric shaver stand declares:
 > Select cleaning intensity to keep for optimal performance every day.

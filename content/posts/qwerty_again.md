@@ -2,7 +2,7 @@
 title: "QWERTY again"
 date: 2021-08-21
 draft: false
-tags: ["technology", "programming"]
+tags: ["technology"]
 ---
 # Introduction
 [Last time I posted about QWERTY]({{< ref "qwerty.md" >}}), I alluded to the ubiquity of the QWERTY layout. By default, laptop and phone keyboards come in the QWERTY layout, which they inherit from the typewriter. How, then, did the QWERTY layout become the standard for typewriters, and later keyboards? The answer comes down to business and education.

@@ -2,7 +2,7 @@
 title: "生煎包"
 date: 2022-04-30
 draft: false
-tags: ["cooking", "food"]
+tags: ["food"]
 ---
 # Introduction
 Two foods defined my year-plus social distancing: sriracha mayo and 生煎包.

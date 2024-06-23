@@ -2,7 +2,7 @@
 title: "Context managers in Python classes"
 date: 2020-10-03
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 [Context managers in Python allow us to easily manage opening and closing resources]({{< ref "context_managers.md" >}}). However, sometimes we want to define classes that use these context managers, in which case the `with` statement construct will not work.

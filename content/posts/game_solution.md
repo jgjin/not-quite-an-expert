@@ -2,7 +2,7 @@
 title: "Computing sequential games: solution"
 date: 2022-04-16
 draft: false
-tags: ["programming", "technology"]
+tags: ["technology"]
 ---
 # Introduction
 In [my last post]({{< ref "game_representation.md" >}}), we represented a sequential game of complete and perfect information as a trie. In this post, let's solve that game!

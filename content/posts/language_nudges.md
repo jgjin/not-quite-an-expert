@@ -2,7 +2,7 @@
 title: "(Technical) language nudges thought"
 date: 2021-01-23
 draft: false
-tags: ["language", "philosophy", "programming", "technology"]
+tags: ["language", "philosophy", "technology"]
 ---
 [Continued in this post]({{< ref "medium_nudges.md" >}})
 # Introduction
