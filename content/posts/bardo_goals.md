@@ -8,7 +8,7 @@ I originally wanted to call them "limbo goals". However, "bardo", the period bet
 
 I've died at Glean, and I've yet to rebirth at Ramp. In between, I have time to think about, and hopefully move toward, how I want to live.
 
-In my final week at Glean, I asked many of my co-workers what they would do with a few weeks not needing to work. Travel, see friends, sure. Most interestingly, some emphasized the philosophical importance of doing nothing.
+In my final week at Glean, I asked many of my coworkers what they would do with a few weeks not needing to work. Travel, see friends, sure. Most interestingly, some emphasized the philosophical importance of doing nothing.
 
 However, perhaps because of Glean, I find myself incapable of doing purely nothing. So I've written down some "bardo goals":
 1. Take nice profile photos

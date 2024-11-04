@@ -17,7 +17,7 @@ Shame washed over me. I pushed back a bit in my head, something about owning up 
 
 "Really, B, who?"
 
-I expected B to list roles, e.g. "my co-worker" or "my cousin." To my surprise, B listed some names.
+I expected B to list roles, e.g. "my coworker" or "my cousin." To my surprise, B listed some names.
 
 "Hold on, B. I'm going to forget those names. I don't think you should share by name."
 

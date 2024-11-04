@@ -10,5 +10,5 @@ In turn, our interpretation creates another experience. Depending on how you int
 
 Some experiences draw such strong, intrinsic emotion that I would count that emotion as part of the experience. Grief, for instance, comes uncontrollably from losing a close friend or family member. In those cases, perhaps with great difficulty, we can choose to interpret our strong emotions to our benefit.
 
-Practicing meditation and _presence_ helped me deal with the experience of [potentially losing my job, and my co-worker losing theirs]({{< ref "fired.md" >}}).[^1] In this way and many others, mindfulness has strengthened me against the inevitable stresses of life.
+Practicing meditation and _presence_ helped me deal with the experience of [potentially losing my job, and my coworker losing theirs]({{< ref "fired.md" >}}).[^1] In this way and many others, mindfulness has strengthened me against the inevitable stresses of life.
 [^1]: Though I'd be lying if I claimed it didn't intensely affect me. 

@@ -28,7 +28,7 @@ tags: ["art", "food"]
 * A few slices of pickled cucumber
 
 1. Cover the burnt side of the bread with pâté, wondering how to pronounce French words
-2. Top with cilantro leaves, recalling that time you put cilantro in boba tea in front of your co-workers - you no longer work there
+2. Top with cilantro leaves, recalling that time you put cilantro in boba tea in front of your coworkers - you no longer work there
 3. Forget about your (now suspiciously old) pickled red onions and layer with pickled cucumber slices
 
 # Meat

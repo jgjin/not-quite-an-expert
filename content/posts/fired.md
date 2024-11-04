@@ -14,8 +14,8 @@ However, I really wanted to stay.[^2] So that week, and the next, I put in an un
 
 Both my manager and their manager have expressed their approval since then. Though that gives me relief, it will take some time before my emotions move on.
 
-In open conversation, I found out some of my co-workers on the same team received the same negative performance feedback. Then in sombre conversation, I learned one of my co-workers got fired.
+In open conversation, I found out some of my coworkers on the same team received the same negative performance feedback. Then in sombre conversation, I learned one of my coworkers got fired.
 
-Since then, I have flitted in and out between complex emotions: pity for my former co-worker; gratefulness for my current; worry for my future; disgust for my selfishness; indignation for my company.
+Since then, I have flitted in and out between complex emotions: pity for my former coworker; gratefulness for my current; worry for my future; disgust for my selfishness; indignation for my company.
 
-What should I do? I've never experienced this before. To start, I'll send my support to my former co-worker.
+What should I do? I've never experienced this before. To start, I'll send my support to my former coworker.
