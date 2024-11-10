@@ -1,6 +1,6 @@
 ---
 title: "A day by your self"
-date: 2023-06-17
+date: 2023-06-10
 draft: false
 tags: ["people", "philosophy", "misc"]
 ---

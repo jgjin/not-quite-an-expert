@@ -1,6 +1,6 @@
 ---
 title: "Hyperspecialization"
-date: 2023-09-23
+date: 2023-07-29
 draft: false
 tags: ["philosophy", "groups", "people"]
 ---

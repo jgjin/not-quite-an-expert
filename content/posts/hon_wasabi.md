@@ -1,6 +1,6 @@
 ---
 title: "Hon Wasabi"
-date: 2023-09-09
+date: 2023-07-22
 draft: false
 tags: ["food", "language"]
 ---

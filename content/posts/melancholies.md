@@ -1,6 +1,6 @@
 ---
 title: "The melancholies of helping an old Chinese man get back to Oakland"
-date: 2023-07-01
+date: 2023-06-17
 draft: false
 tags: ["people", "groups", "philosophy"]
 ---

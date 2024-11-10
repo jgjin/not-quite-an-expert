@@ -1,6 +1,6 @@
 ---
 title: "A curated selection of wall art from Za Pizza"
-date: 2023-10-21
+date: 2023-08-12
 draft: false
 tags: ["art", "food"]
 ---

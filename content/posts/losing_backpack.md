@@ -1,6 +1,6 @@
 ---
 title: "Birthday backpack chase"
-date: 2023-07-29
+date: 2023-07-01
 draft: false
 tags: ["people", "misc"]
 ---

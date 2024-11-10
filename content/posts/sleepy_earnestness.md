@@ -1,6 +1,6 @@
 ---
 title: "A sleepy earnestness"
-date: 2023-07-15
+date: 2023-06-24
 draft: false
 tags: ["philosophy", "people"]
 ---

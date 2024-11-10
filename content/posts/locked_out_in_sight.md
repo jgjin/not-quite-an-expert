@@ -1,6 +1,6 @@
 ---
 title: "Locked out in sight"
-date: 2023-08-26
+date: 2023-07-15
 draft: false
 tags: ["people", "misc"]
 ---
