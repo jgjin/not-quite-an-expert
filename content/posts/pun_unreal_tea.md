@@ -2,7 +2,7 @@
 title: "Pun III: unreal tea"
 date: 2024-10-19
 draft: false
-tags: ["language", "tea"]
+tags: ["language", "food"]
 ---
 I've been wanting to read briefly about the foundations of philosophy, including metaphysics (what exists), epistemics (what we know), and ethics (what we consider right).
 
