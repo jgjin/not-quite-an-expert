@@ -6,8 +6,9 @@ tags: ["people", "art"]
 ---
 Content warning: transphobia, mental illness
 # Introduction
-I used to watch a YouTube channel, Digibro, focused on anime analysis. I enjoyed the content on Digibro for its incredible critical detail, e.g. [this 50 000+ words, 4+ hours video essay "The Asterisk War Sucks"](https://archive.org/details/the-asterisk-war-sucks-complete-edition). Some time around May 2020, I noticed the channel name and narrator voice changed, and found this tweet:
-{{< tweet 1262607091073789956 >}}
+I used to watch a YouTube channel, Digibro, focused on anime analysis. I enjoyed the content on Digibro for its incredible critical detail, e.g. [this 50 000+ words, 4+ hours video essay "The Asterisk War Sucks"](https://archive.org/details/the-asterisk-war-sucks-complete-edition). Some time around May 2020, I noticed the channel name and narrator voice changed, and found [this tweet](https://x.com/goldenwitchfire/status/1262607091073789956):
+> Thinking about going femme and changing my name to Diginee and branding myself as anitube's big sister
+
 Digibro became Diginee, then just Digi, and has now completely re-branded as Ygg Studio.
 # "Traps"
 I wouldn't call myself weeb trash. However,
