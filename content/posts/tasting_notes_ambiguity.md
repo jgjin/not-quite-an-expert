@@ -25,8 +25,8 @@ Then she goes _off the rails_:
 No! We're getting further from [usefulness]({{< ref "tasting_notes_usefulness.md" >}}), and [bending toward classism]({{< ref "tasting_notes_precision.md" >}})! I don't want to find the secrets of the universe in my [Target]({{< ref "threshold_of_my_bedroom.md" >}}) glass. And I definitely don't think of [Two Buck Chuck](https://en.wikipedia.org/wiki/Charles_Shaw_wine) as the North Star nor the Andromeda Galaxy. Let's converse _over_ drinks, not _via_ drinks!
 
 It reminds me of this excerpt from [_Death & Co: Modern Classic Cocktails_](https://archive.org/details/deathcomoderncla0000kapl/page/17/mode/1up?q=campfire), to which I'll respond to highlight the non-translation of high-minded tasting notes:
-> Tasting spirits is about a connection to a personal experience, a way of articulating a memory or an association with what you smell of taste. A peaty Scotch might remind you of a campfire near the ocean, for example ...
+> Find useful, meaningful words to describe each spirit. ... Tasting spirits is about a connection to a personal experience, a way of articulating a memory or an association with what you smell or taste. A peaty Scotch might remind you of a campfire near the ocean, for example ...
 
-My last camping trip we brought minimal supplies to live closer to nature or whatever. When it rained, we covered the campfire with a tarp and took turns in the "cancer shack" suffocating on smoke to keep the fire alive long enough to cook quite possibly my saddest meal, [I Can't Believe It's Not Rations!®](https://www.icantbelieveitsnotbutter.com)
+My last camping trip we brought minimal supplies to live "closer to nature" or whatever. When it rained, we covered the campfire with a tarp and took turns in the "cancer shack" suffocating on smoke to keep the fire alive long enough to cook quite possibly my saddest meal, [I Can't Believe It's Not Rations!®](https://www.icantbelieveitsnotbutter.com)
 
 So if your Scotch reminds you of a campfire near the ocean, _get bent_, I'll have a glass of extra ordinary Two Buck Chuck instead.
