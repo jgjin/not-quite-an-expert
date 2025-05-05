@@ -10,5 +10,5 @@ However, making beverages with good complex tastes takes a lot of effort, so cos
 [^1]: and the time and effort to procure and prepare
 
 Tasting notes matter more for categories of drinks[^2] with complex and varied tastes. And they better approximate those tastes when referring to other consistent, well-known flavors. For example, I'd say this tea tastes like peach; I wouldn't say this peach tastes like tea.
-[^2]: or foods, though drinks can more easily have complex tastes by virtue of liquids' ability to hold many flavors at once
+[^2]: or foods, though drinks can more easily have complex tastes by virtue of the ability of liquids to hold many flavors at once
 
