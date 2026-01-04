@@ -4,7 +4,7 @@ date: 2025-12-27
 draft: false
 tags: ["food"]
 ---
-[A related story I've enjoyed](https://themoth.org/stories/a-holey-feast)
+[A related story I enjoyed](https://themoth.org/stories/a-holey-feast)
 
 At any hotpot I look for one thing: quail eggs. Their small size yields a wonderful texture - inside the _al dente_ egg white, a generous core of silky egg yolk!
 
