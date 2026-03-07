@@ -1,6 +1,6 @@
 ---
 title: "Marie Kondo's glass drawers and character development"
-date: 2026-01-31
+date: 2026-02-07
 draft: false
 tags: ["people", "art"]
 ---
