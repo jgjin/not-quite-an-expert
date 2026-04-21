@@ -29,7 +29,7 @@ Now we move onto the next question:
 Once again, how you answer this question influences the rest of making something. Someone who needs food solely for nutrition might consider Soylent. Another who needs food to help them relax after work would probably gravitate more toward restaurant take-out.
 
 In the interest of honest process, the description of need should avoid implying a solution. [In the famous words of HBS professor Theodore Levitt:](https://hbswk.hbs.edu/item/what-customers-want-from-your-products)
-> People don’t want to buy a quarter-inch drill. They want a quarter-inch hole!
+> People don't want to buy a quarter-inch drill. They want a quarter-inch hole!
 
 If these people could get a quarter-inch hole through cheaper, quicker, more convenient means[^2], the quarter-inch market would be in trouble!
 [^2]: I often like to use "breaking watermelons over their heads" to signify abstract means: If people could get a quarter-inch hole by breaking watermelons over their heads, people would buy more watermelons and fewer drills!

@@ -27,7 +27,7 @@ Almost anyone who's worked at a company can attest to these "generic good things
 12. ***Dive Deep***
 13. ***Have Backbone; Disagree and Commit***
 14. Deliver Results - what company would avoid results?
-15. Strive to be Earth’s Best Employer - what company would strive to be the worst employer?
+15. Strive to be Earth's Best Employer - what company would strive to be the worst employer?
 16. Success and Scale Bring Broad Responsibility - what company would proudly shirk responsibility?
 
 As a heuristic of [substance versus optics]({{< ref hwyl_optics.md >}}), consider which of your company's values pass the opposite test demonstrated above.

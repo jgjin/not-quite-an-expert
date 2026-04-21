@@ -10,6 +10,6 @@ You want a color between white and whole grain bread, so both people who prefer 
 
 2. Take some egg, and mash it into an unrecognizable paste. 
 
-Most “chefs” and “cooks” and “normal people” would recommend leaving a bit of variance in texture. Those same **idiots** would also suggest diced celery or onion for crunch, or, you know _salt_. Clearly, they have not received the luxurious grace of Airport Egg Salad Sandwich God.
+Most "chefs" and "cooks" and "normal people" would recommend leaving a bit of variance in texture. Those same **idiots** would also suggest diced celery or onion for crunch, or, you know _salt_. Clearly, they have not received the luxurious grace of Airport Egg Salad Sandwich God.
 
-3. Put the Egg Salad Sandwich next to even more expensive, even less appetizing options so a passenger, not quite an expert, fresh n’ crusty from a red eye flight will pay $8 plus tax for your Masterpiece.
+3. Put the Egg Salad Sandwich next to even more expensive, even less appetizing options so a passenger, not quite an expert, fresh n' crusty from a red eye flight will pay $8 plus tax for your Masterpiece.

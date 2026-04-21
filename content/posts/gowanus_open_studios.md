@@ -8,7 +8,7 @@ On October 18, I went to Gowanus Open Studios, during which hundreds of artists 
 
 I felt a real high when the artist in fashion noted I clearly cared about fashion. Then I immediately felt a real low when I hugged the artist goodbye out of habit to meet up with my friend, only to re-enter the studio to meet up with that friend who walked in as I walked out.
 
-The experience validated the messiness I'd assumed of the artist’s lifestyle. However, it also surprised me with the demographic diversity of professional artists, more older and East Asian people than I’d imagined.
+The experience validated the messiness I'd assumed of the artist's lifestyle. However, it also surprised me with the demographic diversity of professional artists, more older and East Asian people than I'd imagined.
 
 The lowest low came when I discovered someone had stolen my AirPods Max - Find My reported their location all the way in East Flatbush/Little Haiti, an area with [mixed reputation](https://www.reddit.com/r/Brooklyn/comments/v0qlrm/how_is_the_east_flatbushlittle_haiti_area).
 

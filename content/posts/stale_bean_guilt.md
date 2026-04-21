@@ -4,7 +4,7 @@ date: 2025-10-04
 draft: false
 tags: ["food"]
 ---
-I like to try a lot of whole-bean coffees. However, I don’t want to buy too much just to throw some away. So when visiting SF last year, upon discovering [the Rainbow Grocery Cooperative](https://rainbow.coop) sold whole-bean coffee from named roasters _by weight_ rather than _by bag_, I made a day of it! I happily brought the haul (of mostly light-roast Ethiopian beans) all the way back to my office desk in NYC.
+I like to try a lot of whole-bean coffees. However, I don't want to buy too much just to throw some away. So when visiting SF last year, upon discovering [the Rainbow Grocery Cooperative](https://rainbow.coop) sold whole-bean coffee from named roasters _by weight_ rather than _by bag_, I made a day of it! I happily brought the haul (of mostly light-roast Ethiopian beans) all the way back to my office desk in NYC.
 
 This year, I re-discovered the haul among the multiple bins beneath my overstuffed office desk. And with some guilt, I resolved to _get through_ the pouches of beans before getting any new whole-bean coffees.
 

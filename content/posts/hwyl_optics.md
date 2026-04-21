@@ -13,10 +13,10 @@ To focus back on Hwyl, look at [this picture from _Vogue_ of the "French nose" b
 ![the "French nose" behind Hywl](https://en.vogue.me/wp-content/uploads/2017/10/promo_Aesop_Hwyl_Barnabe_Fillion_1_2400x1600px-1.jpg)
 
 You might see a dashing French smolder ready to bend you over in a beautiful remote forest, whispering
-> “The silence and verdancy of an ancient Japanese forest, and the wind in the canopy.”
+> "The silence and verdancy of an ancient Japanese forest, and the wind in the canopy."
 
 or 
-> “Almost like a pause, a time to breathe, we were focusing on a very specific sensation or feeling that you get by being alone in nature and feeling it as a shelter, a refuge, or even a mirror. Also, we’re fascinated by the phenomena known as ‘crown shyness’ [when the crowns of trees do not touch but extend to form a canopy above the forest floor with gaps, or channels, running through it] and its importance in the survival of the forest. These sensations and experiences in nature inspired the ingredients of Hwyl Eau de Parfum. We can indeed say that the natural narrative is the tone that can gives our fragrance depth in a world that goes so fast and far away from the green landscape.”
+> "Almost like a pause, a time to breathe, we were focusing on a very specific sensation or feeling that you get by being alone in nature and feeling it as a shelter, a refuge, or even a mirror. Also, we're fascinated by the phenomena known as 'crown shyness' [when the crowns of trees do not touch but extend to form a canopy above the forest floor with gaps, or channels, running through it] and its importance in the survival of the forest. These sensations and experiences in nature inspired the ingredients of Hwyl Eau de Parfum. We can indeed say that the natural narrative is the tone that can gives our fragrance depth in a world that goes so fast and far away from the green landscape."
 
 My back hurts. And I don't think $160 of perfume will bring me back to nature.
 

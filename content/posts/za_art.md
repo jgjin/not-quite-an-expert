@@ -8,13 +8,13 @@ tags: ["art", "food"]
 
 Our artist, anonymous perhaps to avoid the cops, has helpfully drawn a weed leaf. You can tell by the excessive enthusiasm that they have probably never actually smoked weed.
 
-2. “The Daddy Special” 
+2. "The Daddy Special" 
 
-Yes, I can tell this refers to some pizza topping combination. No, it did not help to exclaim “Daddy’s full”.
+Yes, I can tell this refers to some pizza topping combination. No, it did not help to exclaim "Daddy's full".
 
 3. Za 피자 (Pizza)
 
-The artist clarifies "피자 means pizza. It’s Korean." Hmph, very redundant. Almost like a young child with English as a second language. Almost.
+The artist clarifies "피자 means pizza. It's Korean." Hmph, very redundant. Almost like a young child with English as a second language. Almost.
 
 4. Maggie 4th grade
 

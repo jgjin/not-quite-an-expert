@@ -8,7 +8,7 @@ To be alone is to be entirely your self. Well, as much as an individual constitu
 
 (You can bike 6 miles to consume an unusual pastry. And screw it, follow that up with a frivolous coffee flight and museum visit.
 
-(You can quietly seethe at the golf course you have to walk through, and the European’s sculpture of _Le Chinois_, the Chinese man.
+(You can quietly seethe at the golf course you have to walk through, and the European's sculpture of _Le Chinois_, the Chinese man.
 
 (And you can walk to the beach and take pictures of amazingly ugly rocks. And the backs of strangers clearly having a moment from embarrassing angles.
 
@@ -30,4 +30,4 @@ And you can catch yourself still wearing the museum admission sticker and wrap i
 
 And you can finish the last half of the pastry, as you ride the whole line end to end back. Weird, and weird, and weird, fine.) 
 
-Spend enough time by your self, nearly unspeaking, and you’ll lose your self. You are no longer gazing at the world; you fuse into the world gazing at it self.
+Spend enough time by your self, nearly unspeaking, and you'll lose your self. You are no longer gazing at the world; you fuse into the world gazing at it self.

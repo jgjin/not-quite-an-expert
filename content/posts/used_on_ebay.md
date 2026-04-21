@@ -10,4 +10,4 @@ Theoretically, buying open-box or used means 1 less new item produced, hence bet
 
 Practically, I can buy open-box and used items at a significantly lower price than equivalent new items, even though they function basically the same. And heuristically, it controls for higher-quality items, ones people would bother re-selling.
 
-Impractically, I feel savvy negotiating with the seller on eBay. Counter-counter-offering just to save $2.50 on an item? Let’s go!
+Impractically, I feel savvy negotiating with the seller on eBay. Counter-counter-offering just to save $2.50 on an item? Let's go!

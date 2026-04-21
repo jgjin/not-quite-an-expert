@@ -5,12 +5,12 @@ draft: false
 tags: ["food", "philosophy"]
 ---
 In ["How to Talk About Wine Like a Japanese Tea Master"](https://dreaminginjapanese.substack.com/p/how-to-talk-about-wine-like-a-japanese), Ogasawara challenges:
-> [A]re you sure that when you say “It tastes like a peach” that every peach tastes the same, or everyone else tastes a peach the same way you do? Peaches are tough enough to pin down, but what about _fuzzy figs_ and _gushing oranges, candied cherries or Asian pears_...
+> [A]re you sure that when you say "It tastes like a peach" that every peach tastes the same, or everyone else tastes a peach the same way you do? Peaches are tough enough to pin down, but what about _fuzzy figs_ and _gushing oranges, candied cherries or Asian pears_...
 
 Instead of referring to [categories of notes as I've suggested before]({{< ref "tasting_notes_precision.md" >}}), Ogasawara finds a high-minded alternative, emphasis on _high_:
 > A grand crus from the Côte de Beaune is the _Virgin and Child with Canon van der Paele_ by Jan van Eyck.
 
-> Or this Amarone della Valpolicella that I’ve been saving for Christmas is the _Madonna della Vittoria_ by Mantegna.
+> Or this Amarone della Valpolicella that I've been saving for Christmas is the _Madonna della Vittoria_ by Mantegna.
 
 She quotes physicist Richard Feynman, emphasis on _high out of his mind_:
 

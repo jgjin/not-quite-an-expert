@@ -10,4 +10,4 @@ The first time, I suffered chaos by my procrastination and permissiveness. By th
 
 I became upsettingly good at packing. My friends and even the movers complimented my packing. Get yourself some vacuum bags, extra cardboard boxes, and moving blankets.
 
-Though young adults move a lot, 3 times in the same year feels almost obscene, doesn’t it?
+Though young adults move a lot, 3 times in the same year feels almost obscene, doesn't it?

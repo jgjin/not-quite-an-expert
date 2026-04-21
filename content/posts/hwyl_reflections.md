@@ -26,10 +26,10 @@ Rich? I guess you need rich to buy the fragrance! Freethinkers? To buy the fancy
 From [the interview I linked in the previous post](https://en.vogue.me/beauty/aesop-hwyl-review-fragrance):
 > **Can you describe the Aesop fragrance philosophy in three words?**
 >
-> “Art meets science.”
+> "Art meets science."
 
 First of all, three words? What else were you expecting?
-> “Optics, not substance.”
+> "Optics, not substance."
 
 Second of all, so many professions fancy their work art and science. Programmers fancy their work art and science. Chefs fancy their work art and science. Financiers fancy their work art and science.
 

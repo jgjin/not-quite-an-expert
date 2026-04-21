@@ -37,7 +37,7 @@ Excuse me?
 > *an herb consultant for the University of Michigan*
 
 # Sichuan (Szechuan, Szechwan?)[^1] peppercorns
-[^1]: There are 3 common spellings in American English. [The spelling ‘Sichuan’ started in the 1950s with the creation of Hanyu Pinyin, now the Chinese government's official method of romanization.](https://www.goldthread2.com/culture/so-it-spelled-szechuan-or-sichuan/article/2160683)
+[^1]: There are 3 common spellings in American English. [The spelling 'Sichuan' started in the 1950s with the creation of Hanyu Pinyin, now the Chinese government's official method of romanization.](https://www.goldthread2.com/culture/so-it-spelled-szechuan-or-sichuan/article/2160683)
 
 Fruit of (some trees under the genus known as) prickly ash, which is what you should call your boss if you want to be fired.
 

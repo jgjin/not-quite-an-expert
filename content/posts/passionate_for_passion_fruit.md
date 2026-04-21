@@ -12,4 +12,4 @@ Or at least, I was downing Spindrift when I could find it! Their new passion fru
 
 Fortunately, [Goya sells passion fruit pulp](https://www.goya.com/en/products/passion-fruit-pulp) which I can use to make my own syrup. I live near Alphabet City, historical home of [Nuyoricans](https://en.wikipedia.org/wiki/Nuyorican). That means I live close to some Hispanic grocers, and there I can buy Goya passion fruit pulp!
 
-I’ll update when I actually make the passion fruit syrup. 
+I'll update when I actually make the passion fruit syrup. 

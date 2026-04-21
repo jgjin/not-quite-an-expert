@@ -6,7 +6,7 @@ tags: ["philosophy", "people", "language"]
 ---
 # Introduction
 Recently I read [this article about friendship in the Atlantic](https://www.theatlantic.com/family/archive/2021/04/deep-friendships-aristotle/618529/). In it, Arthur Brooks writes:
-> According to [Aristotle in _Nicomachean Ethics_], friendships exist along a kind of ladder. At the bottom rung—where emotional bonds are weakest and the happiness benefits are lowest—are friendships based on utility to each other in work or social life. ... At the highest level are friendships of virtue, or what Aristotle called “perfect friendship.” These friendships are pursued for their own sake, and not instrumental to anything else.
+> According to [Aristotle in _Nicomachean Ethics_], friendships exist along a kind of ladder. At the bottom rung—where emotional bonds are weakest and the happiness benefits are lowest—are friendships based on utility to each other in work or social life. ... At the highest level are friendships of virtue, or what Aristotle called "perfect friendship." These friendships are pursued for their own sake, and not instrumental to anything else.
 # Aristotle
 Why Aristotle? By that I mean, why refer to Aristotle as an authority on friendships? Aristotle had a wildly different understanding of relationships.
 

@@ -5,7 +5,7 @@ draft: false
 tags: ["technology", "language"]
 ---
 From ["Font activations"](https://robhorning.substack.com/p/font-activations):
-> [N]ow words are everywhere treated as data, as numbers, and they are rarely printed at all. ... Fonts perhaps become more salient as they become the only thing that people are expected to play with when it comes to words, once it is drilled into everyone that it is required for efficiency and political conformity to let machines do all the writing and the editing and the “thinking.”
+> [N]ow words are everywhere treated as data, as numbers, and they are rarely printed at all. ... Fonts perhaps become more salient as they become the only thing that people are expected to play with when it comes to words, once it is drilled into everyone that it is required for efficiency and political conformity to let machines do all the writing and the editing and the "thinking."
 
 So as I've started to rely more on large language models (LLMs) to write code, I've formed stronger opinions on fonts for code. From highest to lowest importance:
 1. the font should distinguish between similar characters, e.g. between O and 0, between I and l and 1, for readability

@@ -16,6 +16,6 @@ In her essay about chadō, "the way of tea", in _Letter from Japan_,[^1] Kondo r
 Kondo is understating a bit here.[^2] Since having her third child, she confessed:
 > [Up until now, I was a professional tidier, so I did my best to keep my home tidy at all times. I have kind of given up on that in a good way for me. Now I realize what is important to me is enjoying spending time with my children at home.](https://www.washingtonpost.com/home/2023/01/26/marie-kondo-kurashi-inner-calm)
 
-[^2]: perhaps Japanese people have a tendency to understate, e.g. ["the war situation has developed not necessarily to Japan’s advantage"](https://en.wikipedia.org/wiki/Hirohito_surrender_broadcast)
+[^2]: perhaps Japanese people have a tendency to understate, e.g. ["the war situation has developed not necessarily to Japan's advantage"](https://en.wikipedia.org/wiki/Hirohito_surrender_broadcast)
 
 Even "the Sen no Rikyu of tidying" cannot fully control the messiness of her children. [Parents quipped](https://slate.com/human-interest/2023/01/marie-kondo-parenting-tidying-messy-quote.html); I found myself amused. Overall, I appreciate that practical compromise of tidiness, so I proudly display her glass drawers on my desk.

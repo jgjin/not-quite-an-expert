@@ -9,7 +9,7 @@ Sichuanese chili oil, 红油, has a beautiful texture, fragrance, color, and fla
 Traditional Sichuanese chili oil uses rapeseed oil, 菜籽油, as a base. With its high adhesive quality, the oil better clings to your food, making it easier to appreciate.
 
 [As the oil mixes with the chilis, Mala Market describes three distinct phases:](https://blog.themalamarket.com/sichuan-chili-oil-recipe/)
-> The first pour-over at the highest oil temperature extrudes or “forces out” the smoky-fragrant chili aroma (增香, zēng xiāng). The second pour at a middle temperature draws out the attractive red color of the oil (提色, tí sè). The third and last pour at the lowest temperature preserves the spice of the chilis. 
+> The first pour-over at the highest oil temperature extrudes or "forces out" the smoky-fragrant chili aroma (增香, zēng xiāng). The second pour at a middle temperature draws out the attractive red color of the oil (提色, tí sè). The third and last pour at the lowest temperature preserves the spice of the chilis. 
 
 Yesterday, I ate at a Sichuanese noodle place with my roommate. I put the foil-wrapped leftover boxes into my backpack.
 
