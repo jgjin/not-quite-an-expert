@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "not quite an expert"
-theme = "hugo-theme-m10c"
 enableEmoji=true
 
 [params]
@@ -10,11 +9,13 @@ enableEmoji=true
     avatar = "avatar.jpg"
 
     [[params.social]]
+        icon = "brand-github"
         name = "github"
-        url = "https://github.com/jgjin/"
+        url = "https://github.com/jgjin"
     [[params.social]]
+        icon = "linkedin"
         name = "linkedin"
-        url = "https://www.linkedin.com/in/jason-jin1/"
+        url = "https://www.linkedin.com/in/jason-jin1"
 
 [params.style]
     darkestColor = "#4b1a4f"
@@ -27,3 +28,7 @@ enableEmoji=true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[module]
+[[module.imports]]
+    path = "github.com/vaga/hugo-theme-m10c"

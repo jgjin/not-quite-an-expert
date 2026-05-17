@@ -16,7 +16,7 @@ I frame post-modernism as negative ("there doesn't") here deliberately. Hallmark
 > Professor Farnsworth: Who knows? Probably some hogwash about the human spirit.
 
 Less amusingly, we can see it in the marketing of **ORANGE DRINK**:
-{{< tweet 1092247574336163840 >}}
+{{< x user="sunnydelight" id="1092247574336163840" >}}
 
 I hope Ironic Brand Twitter™ marks the height and downfall of the dominance of post-modernism.[^1]
 [^1]: I find Ironic Brand Twitter™ especially cynical because the marketers ultimately care about your buying their product.
