@@ -9,4 +9,4 @@ The first time they were closed. The second time they were taking the day off. F
 A fresh 生煎包 is a transient beauty. Like a fresh New York pizza slice, you should eat it quickly before the wet and dry ingredients merge into a sog.[^1]
 [^1]: from soggy
 
-I'd say my mom’s 生煎包 are better on a good day, when she puts in 香菇 and manages to not break them while serving, and I manage to procure the right hot sauce. My mom would cook 生煎包 for me whenever I visited or took an important interview from my parents' home. So these 生煎包 serve as a great meal before my important interview tonight.
+I'd say my mom's 生煎包 are better on a good day, when she puts in 香菇 and manages to not break them while serving, and I manage to procure the right hot sauce. My mom would cook 生煎包 for me whenever I visited or took an important interview from my parents' home. So these 生煎包 serve as a great meal before my important interview tonight.
